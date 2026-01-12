@@ -1,0 +1,33 @@
+title: DeSpain Consulting
+description: Removing friction from your business with AI-powered systems that actually fit how you work.
+url: "https://despain-consulting.com"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Collections for easy content management
+collections:
+  ventures:
+    output: true
+    permalink: /ventures/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "ventures"
+    values:
+      layout: "venture"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

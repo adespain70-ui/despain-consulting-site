@@ -1,0 +1,38 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-brand">
+        <p class="footer-logo">DeSpain Consulting</p>
+        <p class="footer-tagline">{{ site.description }}</p>
+      </div>
+      <div class="footer-links">
+        <div class="footer-section">
+          <h4>Navigation</h4>
+          <ul>
+            <li><a href="{{ '/problems' | relative_url }}">Problems I Solve</a></li>
+            <li><a href="{{ '/ventures' | relative_url }}">Ventures & Projects</a></li>
+            <li><a href="{{ '/about' | relative_url }}">About</a></li>
+            <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h4>Connect</h4>
+          <ul>
+            <li><a href="https://www.linkedin.com/in/annedespain/" target="_blank" rel="noopener">LinkedIn</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; {{ 'now' | date: "%Y" }} DeSpain Consulting, LLC. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Mobile nav toggle
+  document.querySelector('.nav-toggle').addEventListener('click', function() {
+    document.querySelector('.site-nav').classList.toggle('active');
+    this.classList.toggle('active');
+  });
+</script>

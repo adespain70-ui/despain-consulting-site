@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<article class="venture">
+  <header class="venture-header">
+    <div class="container">
+      <h1>{{ page.title }}</h1>
+      <p class="venture-type">{{ page.type }}</p>
+    </div>
+  </header>
+
+  <div class="venture-content">
+    <div class="container">
+      {{ content }}
+
+      {% if page.link %}
+      <div class="venture-link">
+        <a href="{{ page.link }}" class="btn btn-secondary" target="_blank" rel="noopener">Visit {{ page.title }} &rarr;</a>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</article>
