@@ -6,9 +6,25 @@ subtitle: 20+ years of retail operations expertise, now powered by AI
 
 ## The Thread
 
-My career spans some of the most recognized names in retail: **Amazon**, **Myer**, **Sundance Catalog**. At each stop, I learned what it takes to run complex operations at scale — merchandising, inventory, supply chain, the systems that make it all work.
+My career spans some of the most recognized names in retail: **Amazon**, **Myer**, **Sundance Catalog**, **J Crew**, and **Limited Brands**. From department store buying in Australia to wholesale sales in the surf industry, I've worked across retail and wholesale sectors — from major corporations to boutique formats.
+
+At each stop, I learned what it takes to run complex operations at scale: merchandising, planning, inventory, supply chain, and the systems that make it all work.
 
 Now I bring that same operational lens to businesses of all sizes, with AI as the accelerant.
+
+---
+
+## What I Do
+
+I specialize in helping purpose-driven brands and organizations that prioritize meaningful missions. My work encompasses:
+
+- **Strategic initiatives** and organizational structuring for scalable growth
+- **Process optimization** and lifecycle management
+- **Data organization** and hierarchy development
+- **Web merchandising** and assortment planning
+- **Brand identity realization** and competitive analysis
+- **Pricing and margin optimization**
+- **Leadership guidance** during critical growth phases
 
 ---
 
