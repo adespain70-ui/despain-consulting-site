@@ -4,8 +4,6 @@ title: Get in Touch
 subtitle: Let's talk about removing friction from your business
 ---
 
-<div class="contact-info">
-
 ## Who I Work With
 
 I work best with businesses that:
@@ -31,6 +29,4 @@ No sales pitch. No pressure. Just an honest assessment of whether I can help.
 
 ---
 
-<p style="color: var(--color-text-light); font-style: italic; margin-top: 2rem;">Based in Utah, working with clients worldwide.</p>
-
-</div>
+*Based in Utah, working with clients worldwide.*
