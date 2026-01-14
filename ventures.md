@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ventures & Projects
-subtitle: I don't just advise — I operate
+subtitle: I don't just advise, I build and operate
 ---
 
 ## Business Ventures
@@ -24,7 +24,7 @@ A gift shop featuring products from local Utah makers. This venture showcases re
 
 ### mAIker
 
-**Fashion-forward accessories on Etsy**
+**Fashion-forward apparel and accessories on Etsy**
 
 A marketplace presence demonstrating trend-responsive product development, platform optimization, and reaching different customer segments through established channels.
 

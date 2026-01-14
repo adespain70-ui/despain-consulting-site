@@ -2,7 +2,7 @@
 layout: home
 title: Home
 headline: You have processes that are slower, messier, and more expensive than they should be.
-subheadline: I help businesses remove the friction that's costing them time and money — using AI-powered systems that actually fit how you work.
+subheadline: I help businesses remove the friction that's costing them time and money, using AI-powered systems that actually fit how you work.
 cta_text: Let's Talk
 cta_link: /contact
 ---
@@ -41,7 +41,7 @@ cta_link: /contact
   <div class="container">
     <div class="section-header">
       <h2>Ventures & Projects</h2>
-      <p>I don't just advise — I operate</p>
+      <p>I don't just advise, I build and operate</p>
     </div>
     <div class="ventures-grid">
       <div class="venture-card">
@@ -56,7 +56,7 @@ cta_link: /contact
         <div class="venture-card-content">
           <span class="venture-type">Marketplace</span>
           <h3>mAIker</h3>
-          <p>Fashion-forward accessories on Etsy with trend-responsive product development and marketplace optimization.</p>
+          <p>Fashion-forward apparel and accessories on Etsy with trend-responsive product development and marketplace optimization.</p>
           <a href="https://maikerco.etsy.com" class="card-link" target="_blank" rel="noopener">Visit Shop &rarr;</a>
         </div>
       </div>
