@@ -55,9 +55,9 @@ cta_link: /contact
       <div class="venture-card">
         <div class="venture-card-content">
           <span class="venture-type">Marketplace</span>
-          <h3>Maiker</h3>
+          <h3>mAIker</h3>
           <p>Fashion-forward accessories on Etsy with trend-responsive product development and marketplace optimization.</p>
-          <a href="#" class="card-link" target="_blank" rel="noopener">Visit Shop &rarr;</a>
+          <a href="https://maikerco.etsy.com" class="card-link" target="_blank" rel="noopener">Visit Shop &rarr;</a>
         </div>
       </div>
       <div class="venture-card">

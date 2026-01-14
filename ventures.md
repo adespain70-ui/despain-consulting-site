@@ -22,7 +22,7 @@ A gift shop featuring products from local Utah makers. This venture showcases re
 
 ---
 
-### Maiker
+### mAIker
 
 **Fashion-forward accessories on Etsy**
 
@@ -32,7 +32,7 @@ A marketplace presence demonstrating trend-responsive product development, platf
 - Trend analysis and product development
 - Multi-channel retail strategy
 
-<a href="#" class="btn btn-secondary" target="_blank" rel="noopener">Visit Etsy Shop</a>
+<a href="https://maikerco.etsy.com" class="btn btn-secondary" target="_blank" rel="noopener">Visit Etsy Shop</a>
 
 ---
 
