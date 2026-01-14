@@ -31,6 +31,6 @@ No sales pitch. No pressure. Just an honest assessment of whether I can help.
 
 ---
 
-<p style="color: var(--color-text-light); font-style: italic; margin-top: 2rem;">Based in Utah, working with clients nationwide.</p>
+<p style="color: var(--color-text-light); font-style: italic; margin-top: 2rem;">Based in Utah, working with clients worldwide.</p>
 
 </div>
