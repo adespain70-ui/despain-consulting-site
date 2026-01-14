@@ -68,11 +68,10 @@ The gap between "AI could help" and "AI is actually helping" is where I operate.
 
 ## Certifications
 
-<div class="certifications">
-  <span class="cert-badge">AI Certified</span>
+<div class="cert-images">
+  <img src="/assets/images/cert-ai-foundations.jpg" alt="How To Scale A Business With AI & Agentic Workflows - Foundations Certificate">
+  <img src="/assets/images/cert-agentic-workflows.jpg" alt="Master Market-Ready Agentic AI Workflows Certificate">
 </div>
-
-*[Add your specific AI certifications with LinkedIn verification links]*
 
 ---
 
