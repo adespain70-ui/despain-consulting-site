@@ -66,6 +66,20 @@ An agentic AI system that automates college exploration research. Demonstrates h
 
 ---
 
+### Print Marketing Guru
+
+**Custom GPT for print marketing strategy**
+
+A specialized AI assistant that provides key metrics, benchmarks, and goals for print marketing campaigns. Helps clients understand industry standards and set realistic targets for their direct mail and print initiatives.
+
+- Industry benchmarks and KPIs
+- Campaign goal setting
+- Performance metrics guidance
+
+<a href="https://chatgpt.com/g/g-675338a3335c8191a8148d87ed288630-print-marketing-guru" class="btn btn-secondary" target="_blank" rel="noopener">Try Print Marketing Guru</a>
+
+---
+
 ### Document Generation Workflow
 
 **Complex orchestration example**
