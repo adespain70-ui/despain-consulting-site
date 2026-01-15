@@ -12,11 +12,11 @@ Your team is spending hours on tasks that should take minutes. Data entry, repor
 
 ---
 
-## Systems That Don't Connect
+## Decision-Making in the Dark
 
-Your ERP doesn't talk to your e-commerce platform. Customer data lives in three different places. Every week someone spends hours manually reconciling spreadsheets.
+You're making critical business decisions without the data you need. Reports are outdated by the time they reach you. Key metrics are scattered across spreadsheets, or worse, living in someone's head.
 
-**Our approach:** We create integrations that make your existing tech stack work together. Sometimes that means custom connectors. Sometimes it means rethinking which tools you actually need. The goal is information flowing where it needs to go, automatically.
+**Our approach:** We build visibility into what actually matters. Real-time dashboards, automated reporting, and data structures that give you confidence in your decisions — not just more data, but the right data at the right time.
 
 ---
 
@@ -25,6 +25,14 @@ Your ERP doesn't talk to your e-commerce platform. Customer data lives in three 
 Growth should be exciting, not terrifying. But right now, every new customer or product line means more people, more complexity, more things that can break.
 
 **Our approach:** We design processes that scale without proportional headcount. This means identifying which parts of your operation can be systematized and building the infrastructure to support 10x growth.
+
+---
+
+## Reactive Instead of Proactive
+
+You're constantly firefighting. Problems surface when they're already crises. Your team spends more time responding to issues than preventing them.
+
+**Our approach:** We create early warning systems and proactive workflows that surface issues before they escalate. Shift from putting out fires to preventing them in the first place.
 
 ---
 

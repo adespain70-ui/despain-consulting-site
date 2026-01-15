@@ -19,12 +19,16 @@ cta_link: /contact
         <p>Repetitive tasks that should take minutes are consuming hours. We build systems that automate the tedious so your team can focus on what matters.</p>
       </div>
       <div class="problem-card">
-        <h3>Systems That Don't Connect</h3>
-        <p>Data lives in silos. Information gets lost between tools. We create integrations that make your tech stack work together.</p>
+        <h3>Decision-Making in the Dark</h3>
+        <p>You're making critical calls without the data you need, relying on gut instead of insight. We build visibility into what actually matters.</p>
       </div>
       <div class="problem-card">
         <h3>Scaling Bottlenecks</h3>
         <p>You can't grow without throwing bodies at the problem. We design processes that scale without proportional headcount.</p>
+      </div>
+      <div class="problem-card">
+        <h3>Reactive Instead of Proactive</h3>
+        <p>You're constantly firefighting instead of getting ahead of problems. We create systems that surface issues before they become crises.</p>
       </div>
       <div class="problem-card">
         <h3>AI Confusion</h3>
