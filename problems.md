@@ -6,7 +6,7 @@ subtitle: We focus on the friction points that hold businesses back
 
 ## Manual Work Eating Your Team's Time
 
-Your team is spending hours on tasks that should take minutes. Data entry, report generation, status updates, inventory checks — the list goes on. This isn't just inefficient; it's expensive and demoralizing.
+Your team is spending hours on tasks that should take minutes. Data entry, report generation, status updates, inventory checks. The list goes on. This isn't just inefficient; it's expensive and demoralizing.
 
 **Our approach:** We identify the highest-impact automation opportunities and build systems that handle the repetitive work. Not generic tools, but solutions tailored to how your business actually operates.
 
@@ -16,7 +16,7 @@ Your team is spending hours on tasks that should take minutes. Data entry, repor
 
 You're making critical business decisions without the data you need. Reports are outdated by the time they reach you. Key metrics are scattered across spreadsheets, or worse, living in someone's head.
 
-**Our approach:** We build visibility into what actually matters. Real-time dashboards, automated reporting, and data structures that give you confidence in your decisions — not just more data, but the right data at the right time.
+**Our approach:** We build visibility into what actually matters. Real-time dashboards, automated reporting, and data structures that give you confidence in your decisions. Not just more data, but the right data at the right time.
 
 ---
 
@@ -40,7 +40,7 @@ You're constantly firefighting. Problems surface when they're already crises. Yo
 
 Everyone's talking about AI. Your competitors claim they're using it. But you're not sure what's real, what's hype, and what actually applies to your business.
 
-**Our approach:** We cut through the noise. We look at your specific operations, identify where AI can genuinely help, and implement solutions that work — not science projects that never leave the proof-of-concept stage.
+**Our approach:** We cut through the noise. We look at your specific operations, identify where AI can genuinely help, and implement solutions that work. Not science projects that never leave the proof-of-concept stage.
 
 ---
 

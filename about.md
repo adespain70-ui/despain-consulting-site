@@ -6,7 +6,7 @@ subtitle: 20+ years of retail operations expertise, now powered by AI
 
 ## Our Foundation
 
-Our team brings experience from some of the most recognized names in retail: **Amazon**, **Myer**, **Sundance Catalog**, **J Crew**, and **Limited Brands**. From department store buying in Australia to wholesale sales in the surf industry, we've worked across retail and wholesale sectors — from major corporations to boutique formats.
+Our team brings experience from some of the most recognized names in retail: **Amazon**, **Myer**, **Sundance Catalog**, **J Crew**, and **Limited Brands**. From department store buying in Australia to wholesale sales in the surf industry, we've worked across retail and wholesale sectors, from major corporations to boutique formats.
 
 At each stop, we learned what it takes to run complex operations at scale: merchandising, planning, inventory, supply chain, and the systems that make it all work.
 
