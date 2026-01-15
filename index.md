@@ -2,7 +2,7 @@
 layout: home
 title: Home
 headline: You have processes that are slower, messier, and more expensive than they should be.
-subheadline: I help businesses remove the friction that's costing them time and money, using AI-powered systems that actually fit how you work.
+subheadline: We help businesses remove the friction that's costing them time and money, using AI-powered systems that actually fit how you work.
 cta_text: Let's Talk
 cta_link: /contact
 ---
@@ -10,25 +10,25 @@ cta_link: /contact
 <section class="home-section">
   <div class="container">
     <div class="section-header">
-      <h2>Problems I Solve</h2>
-      <p>I focus on the friction points that hold businesses back</p>
+      <h2>Problems We Solve</h2>
+      <p>We focus on the friction points that hold businesses back</p>
     </div>
     <div class="problems-grid">
       <div class="problem-card">
         <h3>Manual Work Eating Your Team's Time</h3>
-        <p>Repetitive tasks that should take minutes are consuming hours. I build systems that automate the tedious so your team can focus on what matters.</p>
+        <p>Repetitive tasks that should take minutes are consuming hours. We build systems that automate the tedious so your team can focus on what matters.</p>
       </div>
       <div class="problem-card">
         <h3>Systems That Don't Connect</h3>
-        <p>Data lives in silos. Information gets lost between tools. I create integrations that make your tech stack work together.</p>
+        <p>Data lives in silos. Information gets lost between tools. We create integrations that make your tech stack work together.</p>
       </div>
       <div class="problem-card">
         <h3>Scaling Bottlenecks</h3>
-        <p>You can't grow without throwing bodies at the problem. I design processes that scale without proportional headcount.</p>
+        <p>You can't grow without throwing bodies at the problem. We design processes that scale without proportional headcount.</p>
       </div>
       <div class="problem-card">
         <h3>AI Confusion</h3>
-        <p>You know AI matters but not where to start. I cut through the hype and show you what actually works for your business.</p>
+        <p>You know AI matters but not where to start. We cut through the hype and show you what actually works for your business.</p>
       </div>
     </div>
     <div style="text-align: center; margin-top: 2rem;">
@@ -41,7 +41,7 @@ cta_link: /contact
   <div class="container">
     <div class="section-header">
       <h2>Ventures & Projects</h2>
-      <p>I don't just advise, I build and operate</p>
+      <p>We don't just advise, we build and operate</p>
     </div>
     <div class="ventures-grid">
       <div class="venture-card">

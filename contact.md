@@ -4,9 +4,9 @@ title: Get in Touch
 subtitle: Let's talk about removing friction from your business
 ---
 
-## Who I Work With
+## Who We Work With
 
-I work best with businesses that:
+We work best with businesses that:
 
 - Have real operational challenges (not just curiosity about AI)
 - Are ready to implement, not just explore
@@ -15,9 +15,9 @@ I work best with businesses that:
 
 ## What to Expect
 
-When you reach out, I'll respond within 1-2 business days. If it seems like there's a fit, we'll schedule a conversation to dig into your specific challenges.
+When you reach out, we'll respond within 1-2 business days. If it seems like there's a fit, we'll schedule a conversation to dig into your specific challenges.
 
-No sales pitch. No pressure. Just an honest assessment of whether I can help.
+No sales pitch. No pressure. Just an honest assessment of whether we can help.
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Ventures & Projects
-subtitle: I don't just advise, I build and operate
+subtitle: We don't just advise, we build and operate
 ---
 
 ## Business Ventures
 
-These are businesses I've built and run, applying the same principles I bring to client work.
+These are businesses we've built and run, applying the same principles we bring to client work.
 
 ### Wasatch Gift
 
@@ -38,7 +38,7 @@ A marketplace presence demonstrating trend-responsive product development, platf
 
 ## Custom AI Systems
 
-Solutions I've built that demonstrate what's possible when AI meets real business problems.
+Solutions we've built that demonstrate what's possible when AI meets real business problems.
 
 ### Magnolia
 
