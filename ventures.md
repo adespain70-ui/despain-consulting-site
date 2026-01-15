@@ -62,6 +62,8 @@ An agentic AI system that automates college exploration research. Demonstrates h
 - Structured analysis and comparison
 - Personalized recommendations
 
+<a href="https://bit.ly/4m0JZqI" class="btn btn-secondary" target="_blank" rel="noopener">Try College Scout</a>
+
 ---
 
 ### Document Generation Workflow
