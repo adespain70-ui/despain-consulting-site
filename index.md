@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-headline: You have processes that are slower, messier, and more expensive than they should be.
+headline: Running a business shouldn't feel this hard.
 subheadline: We help businesses remove the friction that's costing them time and money, using AI-powered systems that actually fit how you work.
 cta_text: Let's Talk
 cta_link: /contact
