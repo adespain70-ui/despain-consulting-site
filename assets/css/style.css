@@ -244,6 +244,42 @@ main {
   margin-bottom: 0.5rem;
 }
 
+/* ===== Venture Sections ===== */
+.venture-section {
+  padding: calc(var(--spacing-unit) * 3) 0;
+  margin: 0 calc(var(--spacing-unit) * -1.5);
+  padding-left: calc(var(--spacing-unit) * 1.5);
+  padding-right: calc(var(--spacing-unit) * 1.5);
+}
+
+.venture-section.bg-alt {
+  background: var(--color-bg-alt);
+  margin-top: calc(var(--spacing-unit) * 2);
+  margin-bottom: calc(var(--spacing-unit) * 2);
+  border-radius: 12px;
+}
+
+.venture-section h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.venture-section .section-intro {
+  color: var(--color-text-light);
+  font-size: 1.1rem;
+  margin-bottom: calc(var(--spacing-unit) * 2);
+}
+
+.venture-section h3 {
+  margin-top: calc(var(--spacing-unit) * 2);
+}
+
+.venture-section hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: calc(var(--spacing-unit) * 2) 0;
+}
+
 /* ===== Home Sections ===== */
 .home-section {
   padding: calc(var(--spacing-unit) * 5) 0;
