@@ -31,6 +31,10 @@ cta_link: /contact
         <p>You're constantly firefighting instead of getting ahead of problems. We create systems that surface issues before they become crises.</p>
       </div>
       <div class="problem-card">
+        <h3>Margin Erosion</h3>
+        <p>Profits are slipping through inefficiencies you can't quite pinpoint. We identify the leaks and build systems to stop them.</p>
+      </div>
+      <div class="problem-card">
         <h3>AI Confusion</h3>
         <p>You know AI matters but not where to start. We cut through the hype and show you what actually works for your business.</p>
       </div>

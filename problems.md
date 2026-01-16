@@ -36,6 +36,14 @@ You're constantly firefighting. Problems surface when they're already crises. Yo
 
 ---
 
+## Margin Erosion
+
+Profits are slipping through inefficiencies you can't quite pinpoint. Pricing inconsistencies, untracked discounts, inventory carrying costs, manual processes that eat into every transaction.
+
+**Our approach:** We dig into your operations to find where margin is leaking. Then we build tracking, controls, and automation to plug those holes and protect your bottom line.
+
+---
+
 ## AI Confusion
 
 Everyone's talking about AI. Your competitors claim they're using it. But you're not sure what's real, what's hype, and what actually applies to your business.
