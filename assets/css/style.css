@@ -246,28 +246,30 @@ main {
 
 /* ===== Venture Sections ===== */
 .venture-section {
-  padding: calc(var(--spacing-unit) * 3) 0;
-  margin: 0 calc(var(--spacing-unit) * -1.5);
-  padding-left: calc(var(--spacing-unit) * 1.5);
-  padding-right: calc(var(--spacing-unit) * 1.5);
+  padding: calc(var(--spacing-unit) * 3);
+  margin: calc(var(--spacing-unit) * 2) 0;
+  border-radius: 12px;
+  border: 2px solid var(--color-border);
 }
 
 .venture-section.bg-alt {
   background: var(--color-bg-alt);
-  margin-top: calc(var(--spacing-unit) * 2);
-  margin-bottom: calc(var(--spacing-unit) * 2);
-  border-radius: 12px;
+  border-color: var(--color-accent);
 }
 
 .venture-section h2 {
-  margin-top: 0;
+  margin-top: 0 !important;
   margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--color-primary);
+  display: inline-block;
 }
 
 .venture-section .section-intro {
   color: var(--color-text-light);
   font-size: 1.1rem;
   margin-bottom: calc(var(--spacing-unit) * 2);
+  margin-top: calc(var(--spacing-unit) * 1);
 }
 
 .venture-section h3 {
