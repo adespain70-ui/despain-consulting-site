@@ -244,42 +244,12 @@ main {
   margin-bottom: 0.5rem;
 }
 
-/* ===== Venture Sections ===== */
-.venture-section {
-  padding: calc(var(--spacing-unit) * 3);
-  margin: calc(var(--spacing-unit) * 2) 0;
-  border-radius: 12px;
-  border: 2px solid var(--color-border);
-}
-
-.venture-section.bg-alt {
-  background: var(--color-bg-alt);
-  border-color: var(--color-accent);
-}
-
-.venture-section h2 {
-  margin-top: 0 !important;
-  margin-bottom: 0.5rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid var(--color-primary);
-  display: inline-block;
-}
-
-.venture-section .section-intro {
-  color: var(--color-text-light);
-  font-size: 1.1rem;
-  margin-bottom: calc(var(--spacing-unit) * 2);
-  margin-top: calc(var(--spacing-unit) * 1);
-}
-
-.venture-section h3 {
-  margin-top: calc(var(--spacing-unit) * 2);
-}
-
-.venture-section hr {
+/* ===== Section Divider ===== */
+.section-divider {
   border: none;
-  border-top: 1px solid var(--color-border);
-  margin: calc(var(--spacing-unit) * 2) 0;
+  height: 4px;
+  background: var(--color-primary);
+  margin: calc(var(--spacing-unit) * 4) 0;
 }
 
 /* ===== Home Sections ===== */

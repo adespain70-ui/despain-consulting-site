@@ -4,11 +4,9 @@ title: Ventures & Projects
 subtitle: We don't just advise, we build and operate
 ---
 
-<div class="venture-section" markdown="1">
-
 ## Business Ventures
 
-<p class="section-intro">Real businesses we own and operate, applying the same principles we bring to client work.</p>
+*Real businesses we own and operate, applying the same principles we bring to client work.*
 
 ### Wasatch Gift
 
@@ -36,13 +34,11 @@ A marketplace presence demonstrating trend-responsive product development, platf
 
 <a href="https://maikerco.etsy.com" class="btn btn-secondary" target="_blank" rel="noopener">Visit Etsy Shop</a>
 
-</div>
-
-<div class="venture-section bg-alt" markdown="1">
+<hr class="section-divider">
 
 ## Custom AI Systems
 
-<p class="section-intro">Purpose-built AI tools and workflows that solve real business problems. Many are available to try.</p>
+*Purpose-built AI tools and workflows that solve real business problems. Many are available to try.*
 
 ### Magnolia
 
@@ -94,7 +90,7 @@ A 55-step document generation process coordinated by 7 specialized AI agents. Sh
 - Quality control and validation
 - Scalable document processing
 
-</div>
+---
 
 <div style="text-align: center; margin-top: 3rem;">
   <p style="font-size: 1.1rem; margin-bottom: 1.5rem;">Interested in building something similar for your business?</p>
