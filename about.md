@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About
-subtitle: 20+ years of retail operations expertise, now powered by AI
+subtitle: Operations expertise meets AI capability
 ---
 
-## Our Foundation
+## The Founder
 
-Our team brings experience from some of the most recognized names in retail: **Amazon**, **Myer**, **Sundance Catalog**, **J Crew**, and **Limited Brands**. From department store buying in Australia to wholesale sales in the surf industry, we've worked across retail and wholesale sectors, from major corporations to boutique formats.
+DeSpain Consulting was founded by Anne DeSpain, who spent 20+ years inside some of retail's most complex operations: **Amazon**, **Myer**, **Sundance Catalog**, **J Crew**, and **Limited Brands**. From department store buying in Australia to wholesale sales in the surf industry, that career spanned major corporations to boutique formats, building deep expertise in merchandising, planning, inventory, and the systems that make operations run.
 
-At each stop, we learned what it takes to run complex operations at scale: merchandising, planning, inventory, supply chain, and the systems that make it all work.
+That background isn't separate from the AI work. It's the foundation.
 
-Now we bring that same operational lens to businesses of all sizes, with AI as the accelerant.
+## Why It Matters
+
+AI is powerful, but it's only as good as the operational understanding behind it. Most AI implementations fail not because the technology doesn't work, but because the people building them don't understand the business problems deeply enough.
+
+When we build an automation, we're not just connecting tools. We're drawing on decades of experience with the messy reality of how businesses actually operate: the edge cases, the workarounds, the things that look simple on paper but break in practice.
+
+The retail operations background means we know what questions to ask, where the real friction lives, and how to build solutions that survive contact with the real world.
 
 ---
 
@@ -25,14 +31,6 @@ We specialize in helping purpose-driven brands and organizations that prioritize
 - **Brand identity realization** and competitive analysis
 - **Pricing and margin optimization**
 - **Leadership guidance** during critical growth phases
-
----
-
-## Why This Work
-
-We've seen both sides: the frustration of manual processes that should have been automated years ago, and the excitement when technology finally clicks into place and everything gets easier.
-
-The gap between "AI could help" and "AI is actually helping" is where we operate. Not with hype about what might be possible someday, but with practical solutions that work today.
 
 ---
 
