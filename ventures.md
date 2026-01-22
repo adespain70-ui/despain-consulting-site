@@ -84,7 +84,7 @@ A specialized AI assistant that provides key metrics, benchmarks, and goals for 
 
 **Complex orchestration example**
 
-A 55-step document generation process coordinated by 7 specialized AI agents. Shows what's possible when you move beyond simple chatbots to true workflow automation.
+A 55-step document generation process led by one main orchestrator agent coordinating 7 specialized AI agents. Shows what's possible when you move beyond simple chatbots to true workflow automation.
 
 - Multi-agent coordination
 - Quality control and validation
