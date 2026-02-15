@@ -9,14 +9,14 @@ permalink: /advance
   <div class="container">
     <span class="advance-label">DeSpain Consulting</span>
     <h1>The <span class="advance-accent">ADVANCE</span> Framework</h1>
-    <p class="advance-hero-sub">A few ways to start (and stick with) AI, relevant for now. Whether you're a founder, a solo operator, or just getting curious.</p>
+    <p class="advance-hero-sub">A practical way to start (and stick with) AI. Whether you're a founder, a solo operator, or just getting curious.</p>
   </div>
 </section>
 
 <section class="advance-intro">
   <div class="container">
     <p class="advance-quote">"I know I should be using AI, but where do I start?"</p>
-    <p>I get asked this question a lot. After a year of building AI workflows for my own businesses and my clients', I've boiled it down to a few things, relevant for now (but let's check back in a few months).</p>
+    <p>I get asked this question a lot. After a year of building AI workflows for my own businesses and my clients', I've boiled it down to seven things that matter.</p>
   </div>
 </section>
 
