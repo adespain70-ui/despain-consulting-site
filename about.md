@@ -67,6 +67,7 @@ We specialize in helping purpose-driven brands and organizations that prioritize
 ## Certifications
 
 <div class="cert-images">
+  <img src="/assets/images/cert-ai-operator.jpg" alt="Certified AI Operator - The AI Exchange">
   <img src="/assets/images/cert-ai-foundations.jpg" alt="How To Scale A Business With AI & Agentic Workflows - Foundations Certificate">
   <img src="/assets/images/cert-agentic-workflows.jpg" alt="Master Market-Ready Agentic AI Workflows Certificate">
 </div>
