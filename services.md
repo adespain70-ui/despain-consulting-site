@@ -46,6 +46,17 @@ Every custom engagement starts with a scoping conversation. No fixed price — c
 
 ---
 
+## Who We Work With
+
+We work best with businesses that:
+
+- Have real operational challenges (not just curiosity about AI)
+- Are ready to implement, not just explore
+- Value practical solutions over theoretical possibilities
+- Want to build internal capability, not ongoing dependency
+
+---
+
 ## Booking & Refund Policy
 
 Payment is collected at the time of booking via Stripe. All sessions are conducted via video call and confirmed within 24 hours of payment.
