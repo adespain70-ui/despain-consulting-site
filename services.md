@@ -21,6 +21,8 @@ A focused, no-fluff session to identify where AI can make the biggest difference
 
 **Who it's for:** Founders, ops leaders, and service providers who know they should be doing more with AI but aren't sure where to start.
 
+[Book Option A — $250](https://zcal.co/adespain/ai-opportunity-audit){: .btn .btn-primary}
+
 ---
 
 ### Option B — Audit + Implementation Planning · $500
@@ -33,6 +35,8 @@ Everything in Option A, plus a follow-up session to map out how to initiate what
 - Roadmap you can utilize for mapping out execution
 
 **Who it's for:** Founders, small business owners, and service providers who want a clear path to execution.
+
+[Book Option B — $500](https://zcal.co/adespain/audit-plus-planning){: .btn .btn-primary}
 
 ---
 
