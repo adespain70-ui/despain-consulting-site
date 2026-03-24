@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Work With Me
+seo_title: "AI Consulting Services & Automation Audit for Small Business | DeSpain Consulting"
+description: "Book an AI Opportunity Audit starting at $250. We help small business owners and founders identify where AI automation can save time and grow revenue. Park City, Utah."
 subtitle: AI audit and automation — built for how your life and business operates
 ---
 

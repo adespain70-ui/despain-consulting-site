@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Ventures & Projects
+seo_title: "AI & E-Commerce Ventures | DeSpain Consulting | Park City, Utah"
+description: "We don't just advise — we build and operate. Explore DeSpain Consulting's active business ventures including Wasatch Gift and mAIker."
 subtitle: We don't just advise, we build and operate
 ---
 

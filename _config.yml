@@ -3,6 +3,11 @@ description: Removing friction from your business with AI-powered systems that a
 url: "https://despain-consulting.com"
 baseurl: ""
 
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 # Build settings
 markdown: kramdown
 permalink: pretty

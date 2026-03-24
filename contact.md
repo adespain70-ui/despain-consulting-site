@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Get in Touch
+seo_title: "Contact DeSpain Consulting | AI & Automation Consultant | Park City, UT"
+description: "Ready to reduce operational friction with AI? Book a session or reach out to Anne DeSpain directly. Serving small businesses and founders in Utah and beyond."
 subtitle: Let's talk about removing friction from your business
 ---
 

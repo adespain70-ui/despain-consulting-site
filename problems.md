@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Problems We Solve
+seo_title: "Business Automation Problems We Solve | AI Consulting | DeSpain Consulting"
+description: "Manual work, scaling bottlenecks, decision-making without data — DeSpain Consulting helps Utah small businesses solve operational friction with AI-powered systems."
 subtitle: We focus on the friction points that hold businesses back
 ---
 

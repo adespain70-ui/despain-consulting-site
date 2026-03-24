@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+seo_title: "About Anne DeSpain | AI & Operations Consultant | Park City, Utah"
+description: "Anne DeSpain brings 20+ years of retail operations experience from Amazon, J.Crew, and Sundance Catalog to AI consulting for small businesses and purpose-driven brands."
 subtitle: Operations expertise meets AI capability
 ---
 
