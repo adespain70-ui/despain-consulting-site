@@ -98,3 +98,19 @@ cta_link: /contact
     </div>
   </div>
 </section>
+
+<section class="home-section press-section">
+  <div class="container">
+    <p class="press-label">As Quoted In</p>
+    <div class="press-quote">
+      <blockquote>"We are nowhere near 'set it and forget it' with agentic AI. You are still the driver of the car. The work shifts from executing tasks to guiding, directing, and refining the agents. There are real efficiency gains, but the time investment doesn't disappear."</blockquote>
+      <div class="press-attribution">
+        <span class="press-publication">CRM Buyer</span>
+        <span class="press-separator">&middot;</span>
+        <span>March 2026</span>
+        <span class="press-separator">&middot;</span>
+        <a href="https://www.crmbuyer.com/story/ai-in-customer-service-efficiency-gains-workflows-still-fractured-177618.html" target="_blank" rel="noopener">Read the article &rarr;</a>
+      </div>
+    </div>
+  </div>
+</section>

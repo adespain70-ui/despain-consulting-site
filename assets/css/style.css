@@ -666,6 +666,53 @@ main {
   color: var(--color-primary-dark);
 }
 
+/* ===== Press / Media Section ===== */
+.press-section {
+  text-align: center;
+}
+
+.press-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--color-accent);
+  font-weight: 600;
+  margin-bottom: calc(var(--spacing-unit) * 2);
+}
+
+.press-quote {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.press-quote blockquote {
+  font-family: var(--font-serif);
+  font-size: 1.35rem;
+  font-style: italic;
+  color: var(--color-text);
+  line-height: 1.55;
+  margin-bottom: calc(var(--spacing-unit) * 1.5);
+}
+
+.press-attribution {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  color: var(--color-text-light);
+  flex-wrap: wrap;
+}
+
+.press-publication {
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.press-separator {
+  color: var(--color-border);
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 768px) {
   h1 { font-size: 2rem; }
