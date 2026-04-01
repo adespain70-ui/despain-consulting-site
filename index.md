@@ -101,15 +101,27 @@ cta_link: /contact
 
 <section class="home-section press-section">
   <div class="container">
-    <p class="press-label">As Quoted In</p>
-    <div class="press-quote">
-      <blockquote>"We are nowhere near 'set it and forget it' with agentic AI. You are still the driver of the car. The work shifts from executing tasks to guiding, directing, and refining the agents. There are real efficiency gains, but the time investment doesn't disappear."</blockquote>
-      <div class="press-attribution">
-        <span class="press-publication">CRM Buyer</span>
-        <span class="press-separator">&middot;</span>
-        <span>March 2026</span>
-        <span class="press-separator">&middot;</span>
-        <a href="https://www.crmbuyer.com/story/ai-in-customer-service-efficiency-gains-workflows-still-fractured-177618.html" target="_blank" rel="noopener">Read the article &rarr;</a>
+    <div class="section-header">
+      <h2>As Quoted In</h2>
+    </div>
+    <div class="press-grid">
+      <div class="press-item">
+        <p class="press-publication">CRM Buyer</p>
+        <blockquote>"We are nowhere near 'set it and forget it' with agentic AI. You are still the driver of the car. The work shifts from executing tasks to guiding, directing, and refining the agents. There are real efficiency gains, but the time investment doesn't disappear."</blockquote>
+        <div class="press-attribution">
+          <span>March 2026</span>
+          <span class="press-separator">&middot;</span>
+          <a href="https://www.crmbuyer.com/story/ai-in-customer-service-efficiency-gains-workflows-still-fractured-177618.html" target="_blank" rel="noopener">Read the article &rarr;</a>
+        </div>
+      </div>
+      <div class="press-item">
+        <p class="press-publication">E-Commerce Times</p>
+        <blockquote>"LLMs reward authoritative, well-structured content over keyword-stuffed pages. If your brand doesn't have a clear, credible story backed by real substance, you're not getting surfaced. In AI search, you're either there in the output, or you're not."</blockquote>
+        <div class="press-attribution">
+          <span>April 2026</span>
+          <span class="press-separator">&middot;</span>
+          <a href="https://www.ecommercetimes.com/story/seo-here-to-stay-say-marketing-leaders-178516.html" target="_blank" rel="noopener">Read the article &rarr;</a>
+        </div>
       </div>
     </div>
   </div>
