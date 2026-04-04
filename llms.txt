@@ -1,0 +1,52 @@
+# DeSpain Consulting
+
+> AI-powered operations consulting for small businesses and founders. We remove operational friction using AI systems tailored to how you actually work. Based in Park City, Utah, serving clients worldwide.
+
+DeSpain Consulting was founded by Anne DeSpain, who brings 20+ years of retail operations experience from Amazon, Myer, Sundance Catalog, J.Crew, and Limited Brands. The firm specializes in helping purpose-driven brands and small businesses implement practical AI automation — not theoretical proofs of concept, but working systems that survive contact with the real world.
+
+## Core Services
+
+- **Process Automation** — Identify and eliminate repetitive manual work with AI-powered workflows tailored to your operations
+- **Decision Visibility** — Real-time dashboards and automated reporting so critical data reaches the right people at the right time
+- **Scaling Systems** — Design processes that support growth without proportional headcount increases
+- **AI Strategy** — Cut through the hype and identify where AI genuinely moves the needle for your specific business
+
+## Approach
+
+Start with the problem, not the technology. Build for how you actually work — not generic solutions. Transfer knowledge to build internal capability, not ongoing dependency.
+
+## Business Ventures
+
+Active businesses that demonstrate the same principles applied to client work:
+
+- [Wasatch Gift](https://wasatchgift.com): Curated artisan e-commerce featuring Utah local makers, gift personalization, and brand storytelling
+- [mAIker](https://maikerco.etsy.com): Fashion-forward apparel and accessories on Etsy, with trend-responsive product development and marketplace optimization
+
+## AI Systems Built
+
+- **Magnolia** — Property management assistant for a historic Charleston property; integrates municipal databases, vendor tracking, and preservation compliance
+- **College Scout** — Agentic research automation system for college exploration, handling multi-step research tasks across multiple sources ([try it](https://collegescout.vercel.app))
+- **Print Marketing Guru** — Custom GPT providing benchmarks and KPIs for print marketing campaigns ([try it](https://chatgpt.com/g/g-675338a3335c8191a8148d87ed288630-print-marketing-guru))
+- **Document Generation Workflow** — 55-step orchestration process with one main agent coordinating 7 specialized AI agents for complex document workflows
+
+## Founder Credentials
+
+- Anne DeSpain, 20+ years in retail operations (Amazon, Myer, Sundance Catalog, J.Crew, Limited Brands)
+- Certified AI Operator — The AI Exchange
+- Foundations Certificate: How To Scale A Business With AI & Agentic Workflows
+- Master Market-Ready Agentic AI Workflows Certificate
+- Quoted in CRM Buyer (March 2026) and E-Commerce Times (April 2026) on agentic AI and AI search
+
+## Contact
+
+- **Email:** anne@despain-consulting.com
+- **LinkedIn:** https://www.linkedin.com/in/annedespain/
+- **Website:** https://despain-consulting.com
+
+## Site Pages
+
+- [Home](https://despain-consulting.com/): Overview of services, problems solved, ventures, and client testimonials
+- [About](https://despain-consulting.com/about/): Founder background, services, approach, and certifications
+- [Problems We Solve](https://despain-consulting.com/problems/): Detailed breakdown of the six core operational friction points addressed
+- [Ventures & Projects](https://despain-consulting.com/ventures/): Business ventures and custom AI systems portfolio
+- [Contact](https://despain-consulting.com/contact/): How to get in touch and what to expect
