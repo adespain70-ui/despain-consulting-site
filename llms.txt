@@ -24,7 +24,7 @@ Active businesses that demonstrate the same principles applied to client work:
 
 ## AI Systems Built
 
-- **Magnolia** — Property management assistant for a historic Charleston property; integrates municipal databases, vendor tracking, and preservation compliance
+- **Magnolia** — Property management assistant integrating municipal databases, vendor tracking, and historic preservation compliance workflows
 - **College Scout** — Agentic research automation system for college exploration, handling multi-step research tasks across multiple sources ([try it](https://collegescout.vercel.app))
 - **Print Marketing Guru** — Custom GPT providing benchmarks and KPIs for print marketing campaigns ([try it](https://chatgpt.com/g/g-675338a3335c8191a8148d87ed288630-print-marketing-guru))
 - **Document Generation Workflow** — 55-step orchestration process with one main agent coordinating 7 specialized AI agents for complex document workflows
