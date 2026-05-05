@@ -123,6 +123,15 @@ cta_link: /contact
           <a href="https://www.ecommercetimes.com/story/seo-here-to-stay-say-marketing-leaders-178516.html" target="_blank" rel="noopener">Read the article &rarr;</a>
         </div>
       </div>
+      <div class="press-item">
+        <p class="press-publication">TechRound</p>
+        <blockquote>"The gender gap in AI is real, and it operates at two levels, those who use the technology and those who train it. User bias gets attention, but training bias matters just as much. When the people shaping large language models bring a predominantly male worldview to that work, the outputs reflect it."</blockquote>
+        <div class="press-attribution">
+          <span>April 2026</span>
+          <span class="press-separator">&middot;</span>
+          <a href="https://techround.co.uk/artificial-intelligence/it-may-not-be-intentional-but-ai-bias-is-real-and-its-already-distorting-real-world-outcomes-experts-comment/" target="_blank" rel="noopener">Read the article &rarr;</a>
+        </div>
+      </div>
     </div>
   </div>
 </section>
