@@ -68,6 +68,18 @@ We specialize in helping purpose-driven brands and organizations that prioritize
 
 ## Certifications
 
+**Anthropic**
+
+<div class="cert-images">
+  <img src="/assets/images/cert-anthropic-claude-101.jpg" alt="Claude 101 — Anthropic">
+  <img src="/assets/images/cert-anthropic-claude-code-101.jpg" alt="Claude Code 101 — Anthropic">
+  <img src="/assets/images/cert-anthropic-claude-code-in-action.jpg" alt="Claude Code in Action — Anthropic">
+  <img src="/assets/images/cert-anthropic-ai-fluency.jpg" alt="AI Fluency: Framework & Foundations — Anthropic">
+  <img src="/assets/images/cert-anthropic-intro-claude-cowork.jpg" alt="Introduction to Claude Cowork — Anthropic">
+</div>
+
+**AI Exchange & AI Build Lab**
+
 <div class="cert-images">
   <img src="/assets/images/cert-ai-operator.jpg" alt="Certified AI Operator - The AI Exchange">
   <img src="/assets/images/cert-ai-foundations.jpg" alt="How To Scale A Business With AI & Agentic Workflows - Foundations Certificate">
