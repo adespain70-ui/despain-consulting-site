@@ -84,6 +84,7 @@ We specialize in helping purpose-driven brands and organizations that prioritize
   <img src="/assets/images/cert-ai-operator.jpg" alt="Certified AI Operator - The AI Exchange">
   <img src="/assets/images/cert-ai-foundations.jpg" alt="How To Scale A Business With AI & Agentic Workflows - Foundations Certificate">
   <img src="/assets/images/cert-agentic-workflows.jpg" alt="Master Market-Ready Agentic AI Workflows Certificate">
+  <img src="/assets/images/cert-anthropic-agent-native-os.jpg" alt="Install an Agent Native OS in One Day with Claude Code — AI Build Lab">
 </div>
 
 ---
