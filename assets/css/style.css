@@ -496,8 +496,8 @@ main {
 }
 
 .cert-images img {
-  width: 280px;
-  max-width: 100%;
+  flex: 0 0 calc((100% - 4 * var(--spacing-unit)) / 3);
+  min-width: 280px;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
