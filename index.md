@@ -19,6 +19,7 @@ cta_link: /contact
       </div>
       <a href="https://www.eventbrite.com/e/your-guide-to-the-claude-ecosystem-tickets-1989850983858?aff=DSCwebsite" class="btn btn-primary" target="_blank" rel="noopener">Register Now</a>
     </div>
+    <p style="margin-top:1.25rem; font-style:italic; color:var(--color-text); font-size:0.95rem;">"Anne presented the information in an approachable and actionable format. She is knowledgeable, while still curious and engaged in what is coming next. I'm looking forward to learning more from Anne." <span style="font-style:normal; font-weight:600; color:var(--color-accent);">— Workshop Attendee</span></p>
   </div>
 </section>
 

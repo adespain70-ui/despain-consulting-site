@@ -11,6 +11,7 @@ subtitle: AI audit and automation — built for how your life and business opera
   <h3 style="font-size:1.4rem; margin-bottom:0.5rem; color:var(--color-primary);">Your Guide to the Claude Ecosystem</h3>
   <p style="margin-bottom:1rem;">Most people use 10% of what Claude can do. In 90 minutes, you'll know the rest. Claude.ai, Cowork, and Code. All experience levels welcome. Thursday May 28 &middot; 9&ndash;10:30am MT &middot; Live on Zoom &middot; $75.</p>
   <a href="https://www.eventbrite.com/e/your-guide-to-the-claude-ecosystem-tickets-1989850983858?aff=DSCwebsite" class="btn btn-primary" target="_blank" rel="noopener">Register on Eventbrite</a>
+  <p style="margin-top:1.25rem; font-style:italic; color:var(--color-text); font-size:0.95rem; margin-bottom:0;">"Anne presented the information in an approachable and actionable format. She is knowledgeable, while still curious and engaged in what is coming next. I'm looking forward to learning more from Anne." <span style="font-style:normal; font-weight:600; color:var(--color-accent);">— Workshop Attendee</span></p>
 </div>
 
 Most AI projects fail because the people building them don't understand the business deeply enough. We bring 20+ years of operational experience to every engagement — which means we know what questions to ask, where the real friction lives, and how to build solutions that hold up in practice with strong team adoption.
