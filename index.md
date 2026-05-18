@@ -9,6 +9,19 @@ cta_text: Let's Talk
 cta_link: /contact
 ---
 
+<section class="home-section" style="background:var(--color-bg-alt); border-bottom:1px solid var(--color-border);">
+  <div class="container">
+    <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:1.5rem;">
+      <div>
+        <p style="font-size:0.75rem; font-weight:600; letter-spacing:4px; text-transform:uppercase; color:var(--color-accent); margin-bottom:0.5rem;">Upcoming Workshop</p>
+        <h3 style="font-size:1.4rem; margin-bottom:0.4rem; color:var(--color-primary);">Your Guide to the Claude Ecosystem</h3>
+        <p style="color:var(--color-text); margin-bottom:0;">Thursday May 28 &middot; 9&ndash;10:30am MT &middot; Live on Zoom &middot; $75 &middot; All experience levels welcome.</p>
+      </div>
+      <a href="https://www.eventbrite.com/e/your-guide-to-the-claude-ecosystem-tickets-1989850983858?aff=DSCwebsite" class="btn btn-primary" target="_blank" rel="noopener">Register Now</a>
+    </div>
+  </div>
+</section>
+
 <section class="home-section">
   <div class="container">
     <div class="section-header">

@@ -6,6 +6,13 @@ description: "Book an AI Opportunity Audit starting at $250. We help small busin
 subtitle: AI audit and automation — built for how your life and business operates
 ---
 
+<div style="background:var(--color-bg-alt); border:1px solid var(--color-border); border-radius:8px; padding:1.5rem 2rem; margin-bottom:2rem;">
+  <p style="font-size:0.75rem; font-weight:600; letter-spacing:4px; text-transform:uppercase; color:var(--color-accent); margin-bottom:0.5rem;">Upcoming Workshop</p>
+  <h3 style="font-size:1.4rem; margin-bottom:0.5rem; color:var(--color-primary);">Your Guide to the Claude Ecosystem</h3>
+  <p style="margin-bottom:1rem;">Most people use 10% of what Claude can do. In 90 minutes, you'll know the rest. Claude.ai, Cowork, and Code. All experience levels welcome. Thursday May 28 &middot; 9&ndash;10:30am MT &middot; Live on Zoom &middot; $75.</p>
+  <a href="https://www.eventbrite.com/e/your-guide-to-the-claude-ecosystem-tickets-1989850983858?aff=DSCwebsite" class="btn btn-primary" target="_blank" rel="noopener">Register on Eventbrite</a>
+</div>
+
 Most AI projects fail because the people building them don't understand the business deeply enough. We bring 20+ years of operational experience to every engagement — which means we know what questions to ask, where the real friction lives, and how to build solutions that hold up in practice with strong team adoption.
 
 ---
