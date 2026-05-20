@@ -146,6 +146,15 @@ cta_link: /contact
           <a href="https://techround.co.uk/artificial-intelligence/it-may-not-be-intentional-but-ai-bias-is-real-and-its-already-distorting-real-world-outcomes-experts-comment/" target="_blank" rel="noopener">Read the article &rarr;</a>
         </div>
       </div>
+      <div class="press-item">
+        <p class="press-publication">TechNewsWorld</p>
+        <blockquote>"We are headed back to the era when PR really mattered. An era before brands figured out how to game Google through keyword stuffing and structured data tricks and when getting the word out required genuine storytelling and creative outreach. Now that LLMs are serving up brand recommendations in response to conversational queries, the rules have changed again."</blockquote>
+        <div class="press-attribution">
+          <span>May 2026</span>
+          <span class="press-separator">&middot;</span>
+          <a href="https://www.technewsworld.com/story/gartner-predicts-ai-search-will-fatten-pr-budgets-180346.html" target="_blank" rel="noopener">Read the article &rarr;</a>
+        </div>
+      </div>
     </div>
   </div>
 </section>
