@@ -64,6 +64,11 @@ We specialize in helping purpose-driven brands and organizations that prioritize
   <blockquote>"Prioritize the pain points, creating a roadmap of actionable items to tackle, and then dig in."</blockquote>
 </div>
 
+<div class="testimonial">
+  <blockquote>"Anne presented the information in an approachable and actionable format. She is knowledgeable, while still curious and engaged in what is coming next. I'm looking forward to learning more from Anne."</blockquote>
+  <cite>— Workshop Attendee</cite>
+</div>
+
 ---
 
 ## Certifications

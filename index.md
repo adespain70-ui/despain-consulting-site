@@ -97,6 +97,10 @@ cta_link: /contact
     <div class="testimonial">
       <blockquote>"Gave me the ability to assess the company from more of a 30,000 feet viewpoint as opposed to always being in the weeds."</blockquote>
     </div>
+    <div class="testimonial">
+      <blockquote>"Anne presented the information in an approachable and actionable format. She is knowledgeable, while still curious and engaged in what is coming next. I'm looking forward to learning more from Anne."</blockquote>
+      <cite>— Workshop Attendee</cite>
+    </div>
   </div>
 </section>
 
