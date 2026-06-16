@@ -40,7 +40,7 @@ A marketplace presence demonstrating trend-responsive product development, platf
 
 ## Custom AI Systems
 
-*Purpose-built AI tools and workflows that solve real business problems. Many are available to try.*
+*Purpose-built AI tools and workflows that solve real business problems.*
 
 ### Programmatic Ad System
 
