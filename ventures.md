@@ -42,15 +42,39 @@ A marketplace presence demonstrating trend-responsive product development, platf
 
 *Purpose-built AI tools and workflows that solve real business problems. Many are available to try.*
 
+### Programmatic Ad System
+
+**End-to-end ad generation and deployment**
+
+A fully automated ad system that generates, previews, and uploads campaigns across Meta and LinkedIn with a single command. Built for two brands simultaneously — one B2C, one B2B — with copy generated per audience and persona. A testimonial pipeline automatically routes 5-star reviews into ad-ready quote cards.
+
+- Mother's Day campaign: $138 spend, $6,625 revenue, 47.97× ROAS
+- Wave 1 Meta DTC: 10.27% CTR, $0.10 CPC
+- Covers Meta (B2C + B2B) and LinkedIn (B2B) from one system
+
+---
+
+### Invoice Tracker
+
+**Automated cost data extraction**
+
+Drop a product invoice in a folder, run a skill, and cost data flows directly into a tracking spreadsheet — vendor, date, line items, and cost per unit extracted automatically. Replaced a manual data entry process with a 30-second workflow.
+
+- Handles PDF invoices across multiple vendors
+- Feeds directly into basket margin planning
+- Built with Claude Code and a custom slash command
+
+---
+
 ### Magnolia
 
-**Property management assistant**
+**Home management agent**
 
-Built for managing a historic Charleston property. Integrates municipal databases, vendor tracking, and preservation requirements into a single intelligent assistant.
+A Slack-based AI agent for managing a historic property. Backed by a structured knowledge base covering vendor relationships, maintenance schedules, HOA contracts, and preservation requirements — accessible in real time from any device via Slack.
 
-- Municipal regulation monitoring
-- Vendor and contractor coordination
-- Preservation compliance tracking
+- Responds to questions in DMs and channel mentions
+- Knowledge base covers vendors, contracts, and property-specific requirements
+- Deployed via a custom Slack integration built with Claude Code
 
 ---
 
@@ -65,32 +89,6 @@ An agentic AI system that automates college exploration research. Demonstrates h
 - Personalized recommendations
 
 <a href="https://collegescout.vercel.app" class="btn btn-secondary" target="_blank" rel="noopener">Try College Scout</a>
-
----
-
-### Print Marketing Guru
-
-**Custom GPT for print marketing strategy**
-
-A specialized AI assistant that provides key metrics, benchmarks, and goals for print marketing campaigns. Helps clients understand industry standards and set realistic targets for their direct mail and print initiatives.
-
-- Industry benchmarks and KPIs
-- Campaign goal setting
-- Performance metrics guidance
-
-<a href="https://chatgpt.com/g/g-675338a3335c8191a8148d87ed288630-print-marketing-guru" class="btn btn-secondary" target="_blank" rel="noopener">Try Print Marketing Guru</a>
-
----
-
-### Document Generation Workflow
-
-**Complex orchestration example**
-
-A 55-step document generation process led by one main orchestrator agent coordinating 7 specialized AI agents. Shows what's possible when you move beyond simple chatbots to true workflow automation.
-
-- Multi-agent coordination
-- Quality control and validation
-- Scalable document processing
 
 ---
 
