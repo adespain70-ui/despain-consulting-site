@@ -2,7 +2,7 @@
 layout: page
 title: Ventures & Projects
 seo_title: "AI & E-Commerce Ventures | DeSpain Consulting | Park City, Utah"
-description: "We don't just advise — we build and operate. Explore DeSpain Consulting's active business ventures including Wasatch Gift and mAIker."
+description: "We don't just advise. We build and operate. Explore DeSpain Consulting's active business ventures including Wasatch Gift and mAIker."
 subtitle: We don't just advise, we build and operate
 ---
 
@@ -46,7 +46,7 @@ A marketplace presence demonstrating trend-responsive product development, platf
 
 **End-to-end ad generation and deployment**
 
-A fully automated ad system that generates, previews, and uploads campaigns across Meta and LinkedIn with a single command. Built for two brands simultaneously — one B2C, one B2B — with copy generated per audience and persona. A testimonial pipeline automatically routes 5-star reviews into ad-ready quote cards.
+A fully automated ad system that generates, previews, and uploads campaigns across Meta and LinkedIn with a single command. Built for two brands simultaneously: one B2C, one B2B, with copy generated per audience and persona. A testimonial pipeline automatically routes 5-star reviews into ad-ready quote cards.
 
 - Mother's Day campaign: $138 spend, $6,625 revenue, 47.97× ROAS
 - Wave 1 Meta DTC: 10.27% CTR, $0.10 CPC
@@ -58,7 +58,7 @@ A fully automated ad system that generates, previews, and uploads campaigns acro
 
 **Automated cost data extraction**
 
-Drop a product invoice in a folder, run a skill, and cost data flows directly into a tracking spreadsheet — vendor, date, line items, and cost per unit extracted automatically. Replaced a manual data entry process with a 30-second workflow.
+Drop a product invoice in a folder, run a skill, and cost data flows directly into a tracking spreadsheet: vendor, date, line items, and cost per unit extracted automatically. Replaced a manual data entry process with a 30-second workflow.
 
 - Handles PDF invoices across multiple vendors
 - Feeds directly into basket margin planning
@@ -70,7 +70,7 @@ Drop a product invoice in a folder, run a skill, and cost data flows directly in
 
 **Home management agent**
 
-A Slack-based AI agent for managing a historic property. Backed by a structured knowledge base covering vendor relationships, maintenance schedules, HOA contracts, and preservation requirements — accessible in real time from any device via Slack.
+A Slack-based AI agent for managing a historic property. Backed by a structured knowledge base covering vendor relationships, maintenance schedules, HOA contracts, and preservation requirements, accessible in real time from any device via Slack.
 
 - Responds to questions in DMs and channel mentions
 - Knowledge base covers vendors, contracts, and property-specific requirements
