@@ -43,7 +43,7 @@ cta_link: /contact
       </div>
     </div>
     <div style="text-align: center; margin-top: 2rem;">
-      <a href="/problems" class="btn btn-secondary">Learn More</a>
+      <a href="/problems" class="btn btn-secondary">See the Problems We Solve</a>
     </div>
   </div>
 </section>

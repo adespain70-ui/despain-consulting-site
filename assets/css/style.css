@@ -197,8 +197,8 @@ main {
 
 .btn-secondary {
   background: transparent;
-  color: var(--color-primary);
-  border: 2px solid var(--color-primary);
+  color: var(--color-primary-dark);
+  border: 2px solid var(--color-primary-dark);
 }
 
 .btn-secondary:hover {
@@ -331,7 +331,7 @@ main {
   font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: var(--color-accent);
+  color: var(--color-primary-dark);
   font-weight: 600;
   margin-bottom: 0.5rem;
 }
@@ -397,7 +397,7 @@ main {
 
 /* ===== Footer ===== */
 .site-footer {
-  background: var(--color-primary);
+  background: var(--color-primary-dark);
   color: white;
   padding: calc(var(--spacing-unit) * 4) 0 calc(var(--spacing-unit) * 2);
   margin-top: calc(var(--spacing-unit) * 4);
@@ -418,7 +418,7 @@ main {
 }
 
 .footer-tagline {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.85);
   font-size: 0.95rem;
 }
 
@@ -427,12 +427,14 @@ main {
   gap: calc(var(--spacing-unit) * 4);
 }
 
-.footer-section h4 {
+.footer-section .footer-heading {
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.85);
+  font-family: var(--font-serif);
+  font-weight: 600;
 }
 
 .footer-section ul {
@@ -444,7 +446,7 @@ main {
 }
 
 .footer-section a {
-  color: rgba(255, 255, 255, 0.8);
+  color: white;
 }
 
 .footer-section a:hover {
@@ -454,12 +456,12 @@ main {
 .footer-bottom {
   padding-top: calc(var(--spacing-unit) * 2);
   text-align: center;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.85);
   font-size: 0.875rem;
 }
 
 .footer-bottom a {
-  color: rgba(255, 255, 255, 0.8);
+  color: white;
   text-decoration: underline;
 }
 
@@ -690,7 +692,7 @@ main {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-weight: 600;
-  color: var(--color-accent);
+  color: var(--color-primary-dark);
 }
 
 .press-item blockquote {
