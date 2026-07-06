@@ -6,3 +6,8 @@ _site/
 vendor/
 *.gem
 .DS_Store
+.firecrawl/
+
+# Prospect outreach briefs must never be published to the public site.
+# Working copies live in ~/Documents/DeSpain Consulting/Outreach Briefs/
+docs/*-brief.html
