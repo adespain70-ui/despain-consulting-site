@@ -24,15 +24,15 @@ The retail operations background means we know what questions to ask, where the 
 
 ## What We Do
 
-We specialize in helping purpose-driven brands and organizations that prioritize meaningful missions. Our work encompasses:
+We specialize in helping purpose-driven brands and organizations that prioritize meaningful missions. Our work blends classic retail operations disciplines with the AI systems that now do the heavy lifting:
 
-- **Strategic initiatives** and organizational structuring for scalable growth
-- **Process optimization** and lifecycle management
-- **Data organization** and hierarchy development
-- **Web merchandising** and assortment planning
-- **Brand identity realization** and competitive analysis
-- **Pricing and margin optimization**
-- **Leadership guidance** during critical growth phases
+- **AI opportunity audits** that map where automation will save the most time and margin in your specific operation
+- **Workflow automation** for the work that eats your week: invoicing, reporting, data entry, follow-ups
+- **Merchandising, assortment, and pricing strategy** backed by automated margin tracking and reporting that stays current, not quarterly
+- **Market and competitive intelligence systems** that monitor your category, competitors, and cost pressures, then deliver the brief to your inbox
+- **Customer acquisition systems**, from programmatic ad generation to performance dashboards that recommend the next move in plain language
+- **Data and knowledge systems** that turn scattered operational knowledge into structured, searchable assets your team and your AI tools can both use
+- **AI enablement and leadership guidance** for teams adopting these capabilities during critical growth phases
 
 ---
 
