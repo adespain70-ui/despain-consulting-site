@@ -38,4 +38,23 @@
     document.querySelector('.site-nav').classList.toggle('active');
     this.classList.toggle('active');
   });
+
+  // Booking funnel events
+  document.addEventListener('click', function(e) {
+    var link = e.target.closest ? e.target.closest('a') : null;
+    if (!link || typeof gtag !== 'function') return;
+    var href = link.getAttribute('href') || '';
+    var params = {
+      link_text: (link.textContent || '').trim().slice(0, 60),
+      page_path: location.pathname
+    };
+    if (href.indexOf('zcal.co') !== -1) {
+      params.link_url = href;
+      gtag('event', 'booking_click', params);
+    } else if (/^\/services\/?$/.test(href)) {
+      gtag('event', 'services_cta_click', params);
+    } else if (href.indexOf('mailto:') === 0) {
+      gtag('event', 'email_click', params);
+    }
+  });
 </script>
