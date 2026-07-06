@@ -6,6 +6,15 @@ description: "Ready to reduce operational friction with AI? Book a session or re
 subtitle: Let's talk about removing friction from your business
 ---
 
+## Ready to Book?
+
+If you already know you want to talk, skip the back-and-forth and book a session directly. Scheduling and payment happen in one step, and every audit is backed by our satisfaction guarantee.
+
+[Book an AI Opportunity Audit ($250)](https://zcal.co/adespain/ai-opportunity-audit){: .btn .btn-primary}
+[See All Engagement Options](/services){: .btn .btn-secondary}
+
+---
+
 ## Who We Work With
 
 We work best with businesses that:

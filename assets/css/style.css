@@ -670,6 +670,65 @@ main {
   color: var(--color-primary-dark);
 }
 
+/* ===== CTA Band ===== */
+.cta-band {
+  background: var(--color-primary);
+  padding: calc(var(--spacing-unit) * 4) calc(var(--spacing-unit) * 1.5);
+  text-align: center;
+}
+
+.page-content .cta-band {
+  margin-top: calc(var(--spacing-unit) * 3);
+  border-radius: 12px;
+}
+
+.cta-band-headline {
+  font-family: var(--font-serif);
+  font-size: clamp(1.4rem, 3vw, 1.8rem);
+  color: white;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+.cta-band-sub {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  font-weight: 400;
+  color: rgba(255,255,255,0.75);
+  margin-bottom: calc(var(--spacing-unit) * 2);
+  max-width: 560px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cta-band-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cta-band .btn-primary {
+  background: white;
+  color: var(--color-primary);
+}
+
+.cta-band .btn-primary:hover {
+  background: var(--color-bg-alt);
+  color: var(--color-primary-dark);
+}
+
+.cta-band .btn-ghost {
+  background: transparent;
+  color: white;
+  border: 2px solid rgba(255,255,255,0.7);
+}
+
+.cta-band .btn-ghost:hover {
+  background: rgba(255,255,255,0.12);
+  color: white;
+}
+
 /* ===== Press / Media Section ===== */
 .press-grid {
   display: grid;

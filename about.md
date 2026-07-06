@@ -97,4 +97,4 @@ We specialize in helping purpose-driven brands and organizations that prioritize
 ## Let's Connect
 
 <a href="https://www.linkedin.com/in/annedespain/" class="btn btn-secondary" target="_blank" rel="noopener">Follow on LinkedIn</a>
-<a href="/contact" class="btn btn-primary" style="margin-left: 1rem;">Get in Touch</a>
+<a href="/services" class="btn btn-primary" style="margin-left: 1rem;">Book an AI Opportunity Audit</a>

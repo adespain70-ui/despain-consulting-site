@@ -92,7 +92,4 @@ An agentic AI system that automates college exploration research. Demonstrates h
 
 ---
 
-<div style="text-align: center; margin-top: 3rem;">
-  <p style="font-size: 1.1rem; margin-bottom: 1.5rem;">Interested in building something similar for your business?</p>
-  <a href="/contact" class="btn btn-primary">Let's Talk</a>
-</div>
+{% include cta-band.html headline="Want something like this built for your business?" sub="Every one of these started with a conversation about a real operational problem. Start yours with an AI Opportunity Audit." %}

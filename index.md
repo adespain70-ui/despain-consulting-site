@@ -5,8 +5,8 @@ seo_title: "AI Workflow Automation & Operations Consulting | DeSpain Consulting 
 description: "DeSpain Consulting helps small businesses and founders eliminate operational friction with AI-powered automation. Based in Park City, Utah. Book an AI Opportunity Audit today."
 headline: Running a business shouldn't feel this hard.
 subheadline: We help businesses remove the friction that's costing them time and money, using AI-powered systems that actually fit how you work.
-cta_text: Let's Talk
-cta_link: /contact
+cta_text: Book an AI Opportunity Audit
+cta_link: /services
 ---
 
 
@@ -149,3 +149,5 @@ cta_link: /contact
     </div>
   </div>
 </section>
+
+{% include cta-band.html headline="Ready to remove the friction from your business?" %}

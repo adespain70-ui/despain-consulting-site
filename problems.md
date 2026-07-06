@@ -54,7 +54,4 @@ Everyone's talking about AI. Your competitors claim they're using it. But you're
 
 ---
 
-<div style="text-align: center; margin-top: 3rem;">
-  <p style="font-size: 1.1rem; margin-bottom: 1.5rem;">Ready to remove the friction from your business?</p>
-  <a href="/contact" class="btn btn-primary">Get in Touch</a>
-</div>
+{% include cta-band.html headline="Recognize your business in any of these?" sub="A one-hour AI Opportunity Audit will show you exactly where to start. If you don't walk away with at least three actionable opportunities, it's free." %}
