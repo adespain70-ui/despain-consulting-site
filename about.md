@@ -66,8 +66,18 @@ We specialize in helping purpose-driven brands and organizations that prioritize
 
 <div class="testimonial">
   <blockquote>"Anne presented the information in an approachable and actionable format. She is knowledgeable, while still curious and engaged in what is coming next. I'm looking forward to learning more from Anne."</blockquote>
-  <cite>— Workshop Attendee</cite>
+  <cite>— Workshop Attendee, Summit County AI Literacy Series</cite>
 </div>
+
+---
+
+## In the Community
+
+AI adoption moves faster when people learn together. Outside client work, Anne invests in community AI education across Utah:
+
+- **Co-organized the 2026 Women Build AI Retreat** in Salt Lake City, a capacity three-day gathering of more than 65 women working in AI, built around hands-on workshops, live tool demos, and peer learning
+- **Teaches free AI literacy workshops** for Summit County residents, covering fundamentals and safe, practical everyday use
+- **Speaks in the MIT-backed Women Build AI Academy series**, including live demos of the AI systems she builds and runs herself
 
 ---
 
