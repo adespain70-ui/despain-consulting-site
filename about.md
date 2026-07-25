@@ -87,6 +87,7 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
 
 <div class="cert-images">
   <img src="/assets/images/cert-anthropic-claude-101.jpg" alt="Claude 101 — Anthropic">
+  <img src="/assets/images/cert-anthropic-claude-platform-101.jpg" alt="Claude Platform 101 — Anthropic">
   <img src="/assets/images/cert-anthropic-claude-code-101.jpg" alt="Claude Code 101 — Anthropic">
   <img src="/assets/images/cert-anthropic-claude-code-in-action.jpg" alt="Claude Code in Action — Anthropic">
   <img src="/assets/images/cert-anthropic-ai-fluency.jpg" alt="AI Fluency: Framework & Foundations — Anthropic">
