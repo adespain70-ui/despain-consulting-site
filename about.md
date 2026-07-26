@@ -98,6 +98,7 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
     <img src="/assets/images/cert-anthropic-ai-fluency-small-business.jpg" alt="AI Fluency for Small Businesses — Anthropic">
     <img src="/assets/images/cert-anthropic-intro-subagents.jpg" alt="Introduction to Subagents — Anthropic">
     <img src="/assets/images/cert-anthropic-ai-fluency-educators.jpg" alt="AI Fluency for Educators — Anthropic">
+    <img src="/assets/images/cert-anthropic-teaching-ai-fluency-framework.jpg" alt="Teaching the AI Fluency Framework — Anthropic">
   </div>
   <button class="cert-nav cert-nav-next" type="button" aria-label="Next certificates">&#8250;</button>
 </div>
