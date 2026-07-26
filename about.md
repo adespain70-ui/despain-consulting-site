@@ -85,22 +85,31 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
 
 **Anthropic**
 
-<div class="cert-images">
-  <img src="/assets/images/cert-anthropic-claude-101.jpg" alt="Claude 101 — Anthropic">
-  <img src="/assets/images/cert-anthropic-claude-platform-101.jpg" alt="Claude Platform 101 — Anthropic">
-  <img src="/assets/images/cert-anthropic-claude-code-101.jpg" alt="Claude Code 101 — Anthropic">
-  <img src="/assets/images/cert-anthropic-claude-code-in-action.jpg" alt="Claude Code in Action — Anthropic">
-  <img src="/assets/images/cert-anthropic-ai-fluency.jpg" alt="AI Fluency: Framework & Foundations — Anthropic">
-  <img src="/assets/images/cert-anthropic-intro-claude-cowork.jpg" alt="Introduction to Claude Cowork — Anthropic">
+<div class="cert-carousel">
+  <button class="cert-nav cert-nav-prev" type="button" aria-label="Previous certificates">&#8249;</button>
+  <div class="cert-images">
+    <img src="/assets/images/cert-anthropic-claude-101.jpg" alt="Claude 101 — Anthropic">
+    <img src="/assets/images/cert-anthropic-claude-platform-101.jpg" alt="Claude Platform 101 — Anthropic">
+    <img src="/assets/images/cert-anthropic-claude-code-101.jpg" alt="Claude Code 101 — Anthropic">
+    <img src="/assets/images/cert-anthropic-claude-code-in-action.jpg" alt="Claude Code in Action — Anthropic">
+    <img src="/assets/images/cert-anthropic-ai-fluency.jpg" alt="AI Fluency: Framework & Foundations — Anthropic">
+    <img src="/assets/images/cert-anthropic-intro-claude-cowork.jpg" alt="Introduction to Claude Cowork — Anthropic">
+    <img src="/assets/images/cert-anthropic-intro-agent-skills.jpg" alt="Introduction to Agent Skills — Anthropic">
+  </div>
+  <button class="cert-nav cert-nav-next" type="button" aria-label="Next certificates">&#8250;</button>
 </div>
 
 **AI Exchange & AI Build Lab**
 
-<div class="cert-images">
-  <img src="/assets/images/cert-ai-operator.jpg" alt="Certified AI Operator - The AI Exchange">
-  <img src="/assets/images/cert-ai-foundations.jpg" alt="How To Scale A Business With AI & Agentic Workflows - Foundations Certificate">
-  <img src="/assets/images/cert-agentic-workflows.jpg" alt="Master Market-Ready Agentic AI Workflows Certificate">
-  <img src="/assets/images/cert-anthropic-agent-native-os.jpg" alt="Install an Agent Native OS in One Day with Claude Code — AI Build Lab">
+<div class="cert-carousel">
+  <button class="cert-nav cert-nav-prev" type="button" aria-label="Previous certificates">&#8249;</button>
+  <div class="cert-images">
+    <img src="/assets/images/cert-ai-operator.jpg" alt="Certified AI Operator - The AI Exchange">
+    <img src="/assets/images/cert-ai-foundations.jpg" alt="How To Scale A Business With AI & Agentic Workflows - Foundations Certificate">
+    <img src="/assets/images/cert-agentic-workflows.jpg" alt="Master Market-Ready Agentic AI Workflows Certificate">
+    <img src="/assets/images/cert-anthropic-agent-native-os.jpg" alt="Install an Agent Native OS in One Day with Claude Code — AI Build Lab">
+  </div>
+  <button class="cert-nav cert-nav-next" type="button" aria-label="Next certificates">&#8250;</button>
 </div>
 
 ---
@@ -109,3 +118,55 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
 
 <a href="https://www.linkedin.com/in/annedespain/" class="btn btn-secondary" target="_blank" rel="noopener">Follow on LinkedIn</a>
 <a href="/services" class="btn btn-primary" style="margin-left: 1rem;">Book an AI Opportunity Audit</a>
+
+<script>
+(function () {
+  function setupCarousel(carousel) {
+    var track = carousel.querySelector('.cert-images');
+    var prev = carousel.querySelector('.cert-nav-prev');
+    var next = carousel.querySelector('.cert-nav-next');
+    if (!track || !prev || !next) return;
+
+    function overflows() {
+      return track.scrollWidth - track.clientWidth > 1;
+    }
+
+    function updateState() {
+      if (!overflows()) {
+        // Everything fits — no need for arrows on this row.
+        carousel.classList.remove('is-enhanced');
+        return;
+      }
+      carousel.classList.add('is-enhanced');
+      prev.disabled = track.scrollLeft <= 1;
+      next.disabled = track.scrollLeft + track.clientWidth >= track.scrollWidth - 1;
+    }
+
+    function step() {
+      // Advance by ~90% of the visible width so a snap point lands cleanly.
+      return Math.max(track.clientWidth * 0.9, 240);
+    }
+
+    prev.addEventListener('click', function () {
+      track.scrollBy({ left: -step(), behavior: 'smooth' });
+    });
+    next.addEventListener('click', function () {
+      track.scrollBy({ left: step(), behavior: 'smooth' });
+    });
+
+    track.addEventListener('scroll', updateState, { passive: true });
+    window.addEventListener('resize', updateState);
+    updateState();
+  }
+
+  function init() {
+    document.querySelectorAll('.cert-carousel').forEach(setupCarousel);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
