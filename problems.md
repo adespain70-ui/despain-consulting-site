@@ -54,4 +54,4 @@ Everyone's talking about AI. Your competitors claim they're using it. But you're
 
 ---
 
-{% include cta-band.html headline="Recognize your business in any of these?" sub="A one-hour AI Opportunity Audit will show you exactly where to start. If you don't walk away with at least three actionable opportunities, it's free." %}
+{% include cta-band.html headline="Recognize your business in any of these?" sub="A 30-minute AI Opportunity Audit will show you exactly where to start. If you don't walk away with at least three actionable opportunities, it's free." %}

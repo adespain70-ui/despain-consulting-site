@@ -2,7 +2,7 @@
 layout: page
 title: Work With Me
 seo_title: "AI Consulting Services & Automation Audit for Small Business | DeSpain Consulting"
-description: "Book an AI Opportunity Audit starting at $250. We help small business owners and founders identify where AI automation can save time and grow revenue. Park City, Utah."
+description: "Book an AI Opportunity Audit for $350. We help small business owners and founders identify where AI automation can save time and grow revenue. Park City, Utah."
 subtitle: AI audit and automation — built for how your life and business operates
 ---
 
@@ -12,37 +12,24 @@ Most AI projects fail because the people building them don't understand the busi
 
 ## Engagement Options
 
-### Option A — AI Opportunity Audit · $250
+### AI Opportunity Audit · $350
 
 A focused, no-fluff session to identify where AI can make the biggest difference in your life and business right now.
 
 **What's included:**
-- 1-hour strategy session (video call)
-- Personalized audit report delivered within 24 hours — mapping your highest-leverage AI opportunities to your specific operations
+- 30-minute strategy session (video call)
+- Personalized audit report delivered within 24 hours, mapping your highest-leverage AI opportunities to your specific operations
 - Prioritized list of workflows to automate, tools to evaluate, and next steps to take
 
 **Who it's for:** Founders, ops leaders, and service providers who know they should be doing more with AI but aren't sure where to start.
 
-[Book Option A — $250](https://zcal.co/adespain/ai-opportunity-audit){: .btn .btn-primary}
+**Credited toward your build:** If you decide to move forward with us as your AI Operator and Enablement lead, your $350 is credited toward that work.
+
+[Book the AI Opportunity Audit ($350)](https://zcal.co/adespain/ai-opportunity-audit){: .btn .btn-primary}
 
 ---
 
-### Option B — Audit + Implementation Planning · $500
-
-Everything in Option A, plus a follow-up session to map out how to initiate what we identified.
-
-**What's included:**
-- Everything in Option A
-- 1-hour follow-up call to walk through implementation options — tools, sequencing, build vs. buy decisions
-- Roadmap you can utilize for mapping out execution
-
-**Who it's for:** Founders, small business owners, and service providers who want a clear path to execution.
-
-[Book Option B — $500](https://zcal.co/adespain/audit-plus-planning){: .btn .btn-primary}
-
----
-
-### Option C — Custom and Bespoke Projects
+### Custom & Bespoke Projects
 
 For teams that need ongoing strategy, implementation, or a fractional AI operations partner.
 

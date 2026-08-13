@@ -56,4 +56,4 @@ Blended return counts all store revenue during the campaign window, because gift
 
 ---
 
-{% include cta-band.html headline="Want results like these in your business?" sub="Every one of these systems started with a one-hour conversation about a real operational problem. Start yours with an AI Opportunity Audit." %}
+{% include cta-band.html headline="Want results like these in your business?" sub="Every one of these systems started with a 30-minute conversation about a real operational problem. Start yours with an AI Opportunity Audit." %}
