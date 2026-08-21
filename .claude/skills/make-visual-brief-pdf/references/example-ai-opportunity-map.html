@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  @page { size: A4 portrait; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 210mm; height: 297mm; }
+  body {
+    background: #FCF7F1;
+    color: #3F342E;
+    font-family: "Inter", sans-serif;
+    padding: 16mm 15mm 0 15mm;
+    position: relative;
+  }
+
+  /* Header */
+  .head { display: flex; justify-content: space-between; align-items: flex-start; }
+  .head img { height: 15mm; }
+  .eyebrow { text-align: right; }
+  .eyebrow .kicker {
+    font-size: 8.5pt; letter-spacing: 3.5px; text-transform: uppercase;
+    color: #A59E97; font-weight: 600;
+  }
+  .eyebrow .cat { font-size: 9.5pt; color: #877167; font-weight: 600; margin-top: 3px; }
+  .rule { height: 2px; background: #877167; margin: 6mm 0 7mm 0; }
+
+  /* Title block */
+  .title {
+    font-family: "Playfair Display", serif;
+    font-size: 25pt; line-height: 1.12; color: #6D5A52;
+    text-align: center; font-weight: 700; max-width: 165mm; margin: 0 auto;
+  }
+  .meta {
+    text-align: center; font-size: 9pt; color: #A59E97;
+    letter-spacing: 0.5px; margin: 5mm 0 4mm 0;
+  }
+  .summary {
+    text-align: center; font-size: 11pt; line-height: 1.5; color: #3F342E;
+    max-width: 150mm; margin: 0 auto 8mm auto;
+  }
+
+  /* Diagram panel */
+  .panel {
+    background: #FFFFFF; border: 1px solid #A59E97; border-radius: 10px;
+    padding: 9mm 8mm; margin: 0 auto;
+  }
+  .flow { display: flex; flex-direction: column; align-items: center; }
+  .node {
+    width: 108mm; border-radius: 8px; padding: 4mm 5mm; text-align: center;
+    border: 1.5px solid;
+  }
+  .node .lab { font-size: 7.5pt; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 700; }
+  .node .txt { font-size: 10.5pt; margin-top: 2px; line-height: 1.3; }
+  .conn { width: 2px; height: 6mm; background: #A59E97; }
+
+  /* State palette (fill / stroke / text) paired with a status word */
+  .current  { background: #EFE6DC; border-color: #877167; }
+  .current .lab { color: #877167; }
+  .decision { background: #F7EACB; border-color: #C39A4E; color: #5A4326; }
+  .decision .lab { color: #9A7526; }
+  .proposed { background: #ECE6F0; border-color: #8C7BA0; color: #3E3448; }
+  .proposed .lab { color: #6F5E86; }
+  .proof    { background: #DDEBE2; border-color: #5E8B72; color: #26382D; }
+  .proof .lab { color: #4A7059; }
+  .accepted { background: #E2EAD8; border-color: #6E8B57; color: #2F3A24; }
+  .accepted .lab { color: #566E42; }
+
+  .branch { display: flex; gap: 8mm; justify-content: center; width: 108mm; }
+  .branch .node { width: 50mm; }
+  .worker   { background: #F0E4D6; border-color: #B07A4E; color: #5A3D26; }
+  .worker .lab { color: #90592E; }
+  .hold     { background: #F3DEDA; border-color: #B45B4A; color: #5A2C23; }
+  .hold .lab { color: #9A3F30; }
+
+  /* Legend */
+  .legend { display: flex; flex-wrap: wrap; gap: 4mm 7mm; justify-content: center; margin-top: 7mm; }
+  .legend .item { display: flex; align-items: center; gap: 2mm; font-size: 8pt; color: #6D5A52; }
+  .legend .sw { display: inline-block; width: 10px; height: 10px; border-radius: 2px; border: 1.5px solid; }
+
+  /* Footer band */
+  .footer {
+    position: absolute; left: 0; bottom: 0; width: 210mm; height: 14mm;
+    background: #877167; color: #FCF7F1;
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0 15mm; font-size: 8.5pt; letter-spacing: 0.4px;
+  }
+  .footer .mark { font-family: "Playfair Display", serif; font-size: 10pt; letter-spacing: 1px; }
+</style>
+</head>
+<body>
+
+  <div class="head">
+    <img src="../assets/despain-logo.png" alt="DeSpain Consulting">
+    <div class="eyebrow">
+      <div class="kicker">AI Opportunity Map</div>
+      <div class="cat">Prepared for a sample prospect</div>
+    </div>
+  </div>
+  <div class="rule"></div>
+
+  <div class="title">From Manual Bottlenecks to a Governed AI Layer</div>
+  <div class="meta">v1.0 &nbsp;&middot;&nbsp; 2026-08-21 &nbsp;&middot;&nbsp; Prepared by DeSpain Consulting</div>
+  <div class="summary">
+    Order operations run by hand today, so the team firefights instead of scaling.
+    This map shows the one path from that current state to a governed AI layer the
+    owner approves, a specialist verifies, and the receipts prove in dollars.
+  </div>
+
+  <div class="panel">
+    <div class="flow">
+      <div class="node current"><div class="lab">Current</div><div class="txt">Order ops run by hand, decisions made without live data</div></div>
+      <div class="conn"></div>
+      <div class="node decision"><div class="lab">Human decision</div><div class="txt">Owner approves the scope and the guardrails</div></div>
+      <div class="conn"></div>
+      <div class="node proposed"><div class="lab">Proposed &middot; agent</div><div class="txt">Agent drafts the workflow and routes each task</div></div>
+      <div class="conn"></div>
+      <div class="branch">
+        <div class="node worker"><div class="lab">Worker</div><div class="txt">Specialist verifies every handoff</div></div>
+        <div class="node hold"><div class="lab">Hold</div><div class="txt">PII review before anything ships</div></div>
+      </div>
+      <div class="conn"></div>
+      <div class="node proof"><div class="lab">Proof</div><div class="txt">Receipts and evals prove ROI in dollars</div></div>
+      <div class="conn"></div>
+      <div class="node accepted"><div class="lab">Accepted result</div><div class="txt">Governed AI layer live, owner in control</div></div>
+    </div>
+
+    <div class="legend">
+      <div class="item"><span class="sw" style="background:#EFE6DC;border-color:#877167"></span>Current</div>
+      <div class="item"><span class="sw" style="background:#F7EACB;border-color:#C39A4E"></span>Human decision</div>
+      <div class="item"><span class="sw" style="background:#ECE6F0;border-color:#8C7BA0"></span>Proposed</div>
+      <div class="item"><span class="sw" style="background:#F0E4D6;border-color:#B07A4E"></span>Worker</div>
+      <div class="item"><span class="sw" style="background:#F3DEDA;border-color:#B45B4A"></span>Hold</div>
+      <div class="item"><span class="sw" style="background:#DDEBE2;border-color:#5E8B72"></span>Proof</div>
+      <div class="item"><span class="sw" style="background:#E2EAD8;border-color:#6E8B57"></span>Accepted</div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <span class="mark">DESPAIN CONSULTING</span>
+    <span>Lead with the outcome. AI is the method.</span>
+    <span>despain-consulting.com &nbsp;&middot;&nbsp; 1</span>
+  </div>
+
+</body>
+</html>
