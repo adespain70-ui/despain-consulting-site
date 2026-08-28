@@ -88,8 +88,6 @@ An agentic AI system that automates college exploration research. Demonstrates h
 - Structured analysis and comparison
 - Personalized recommendations
 
-<a href="https://collegescout.vercel.app" class="btn btn-secondary" target="_blank" rel="noopener">Try College Scout</a>
-
 ---
 
 {% include cta-band.html headline="Want something like this built for your business?" sub="Every one of these started with a conversation about a real operational problem. Start yours with an AI Opportunity Audit." %}
