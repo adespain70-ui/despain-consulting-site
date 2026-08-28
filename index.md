@@ -65,14 +65,6 @@ cta_link: /services
       </div>
       <div class="venture-card">
         <div class="venture-card-content">
-          <span class="venture-type">Marketplace</span>
-          <h3>mAIker</h3>
-          <p>Fashion-forward apparel and accessories on Etsy with trend-responsive product development and marketplace optimization.</p>
-          <a href="https://maikerco.etsy.com" class="card-link" target="_blank" rel="noopener">Visit Shop &rarr;</a>
-        </div>
-      </div>
-      <div class="venture-card">
-        <div class="venture-card-content">
           <span class="venture-type">AI System</span>
           <h3>Custom AI Solutions</h3>
           <p>Property management assistants, research automation, and complex document workflows with specialized agents.</p>

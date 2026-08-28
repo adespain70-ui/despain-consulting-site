@@ -2,7 +2,7 @@
 layout: page
 title: Ventures & Projects
 seo_title: "AI & E-Commerce Ventures | DeSpain Consulting | Park City, Utah"
-description: "We don't just advise. We build and operate. Explore DeSpain Consulting's active business ventures including Wasatch Gift and mAIker."
+description: "We don't just advise. We build and operate. Explore DeSpain Consulting's active business ventures including Wasatch Gift."
 subtitle: We don't just advise, we build and operate
 ---
 
@@ -21,20 +21,6 @@ A gift shop featuring products from local Utah makers. This venture showcases re
 - E-commerce operations and fulfillment
 
 <a href="https://wasatchgift.com" class="btn btn-secondary" target="_blank" rel="noopener">Visit Wasatch Gift</a>
-
----
-
-### mAIker
-
-**Fashion-forward apparel and accessories on Etsy**
-
-A marketplace presence demonstrating trend-responsive product development, platform optimization, and reaching different customer segments through established channels.
-
-- Etsy marketplace optimization
-- Trend analysis and product development
-- Multi-channel retail strategy
-
-<a href="https://maikerco.etsy.com" class="btn btn-secondary" target="_blank" rel="noopener">Visit Etsy Shop</a>
 
 <hr class="section-divider">
 
