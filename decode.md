@@ -21,7 +21,7 @@ permalink: /decode
     <script async data-uid="035db3eaeb" src="https://despain-consulting.kit.com/035db3eaeb/index.js"></script>
     <!-- KIT-FORM-END -->
 
-    <p style="text-align:center;font-size:0.9rem;color:var(--color-accent);margin-top:1.5rem;">
+    <p style="text-align:center;font-size:0.9rem;color:var(--color-text-muted);margin-top:1.5rem;">
       No spam, unsubscribe anytime. See our <a href="/privacy-policy">privacy policy</a>.
     </p>
 

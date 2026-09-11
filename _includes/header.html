@@ -3,7 +3,12 @@
     <a href="{{ '/' | relative_url }}" class="site-logo">
       <img src="{{ '/assets/images/logo-header.png' | relative_url }}" alt="DeSpain Consulting" class="logo-img">
     </a>
-    <nav class="site-nav">
+    <button class="nav-toggle" type="button" aria-label="Menu" aria-expanded="false" aria-controls="site-nav">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="site-nav" id="site-nav" aria-label="Main">
       <a href="{{ '/problems' | relative_url }}">Problems We Solve</a>
       <a href="{{ '/ventures' | relative_url }}">Ventures & Projects</a>
       <a href="{{ '/case-studies' | relative_url }}">Case Studies</a>
@@ -11,10 +16,5 @@
       <a href="{{ '/about' | relative_url }}">About</a>
       <a href="{{ '/services' | relative_url }}" class="nav-cta">Work With Me</a>
     </nav>
-    <button class="nav-toggle" aria-label="Toggle navigation">
-      <span></span>
-      <span></span>
-      <span></span>
-    </button>
   </div>
 </header>

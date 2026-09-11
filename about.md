@@ -87,7 +87,7 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
 
 <div class="cert-carousel">
   <button class="cert-nav cert-nav-prev" type="button" aria-label="Previous certificates">&#8249;</button>
-  <div class="cert-images">
+  <div class="cert-images" tabindex="0" role="region" aria-label="Anthropic certificates, scroll horizontally">
     <img src="/assets/images/cert-anthropic-claude-101.jpg" alt="Claude 101 — Anthropic">
     <img src="/assets/images/cert-anthropic-claude-platform-101.jpg" alt="Claude Platform 101 — Anthropic">
     <img src="/assets/images/cert-anthropic-claude-code-101.jpg" alt="Claude Code 101 — Anthropic">
@@ -109,7 +109,7 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
 
 <div class="cert-carousel">
   <button class="cert-nav cert-nav-prev" type="button" aria-label="Previous certificates">&#8249;</button>
-  <div class="cert-images">
+  <div class="cert-images" tabindex="0" role="region" aria-label="AI Exchange and AI Build Lab certificates, scroll horizontally">
     <img src="/assets/images/cert-ai-operator.jpg" alt="Certified AI Operator - The AI Exchange">
     <img src="/assets/images/cert-ai-foundations.jpg" alt="How To Scale A Business With AI & Agentic Workflows - Foundations Certificate">
     <img src="/assets/images/cert-agentic-workflows.jpg" alt="Master Market-Ready Agentic AI Workflows Certificate">
@@ -122,7 +122,7 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/annedespain/" class="btn btn-secondary" target="_blank" rel="noopener">Follow on LinkedIn</a>
+<a href="https://www.linkedin.com/in/annedespain/" class="btn btn-secondary" target="_blank" rel="noopener">Follow on LinkedIn<span class="visually-hidden"> (opens in new tab)</span></a>
 <a href="/services" class="btn btn-primary" style="margin-left: 1rem;">Book an AI Opportunity Audit</a>
 
 <script>

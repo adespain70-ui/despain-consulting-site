@@ -60,7 +60,7 @@ cta_link: /services
           <span class="venture-type">E-Commerce</span>
           <h3>Wasatch Gift</h3>
           <p>Curated artisan e-commerce featuring local maker relationships, gift personalization, and brand storytelling.</p>
-          <a href="https://wasatchgift.com" class="card-link" target="_blank" rel="noopener">Visit Site &rarr;</a>
+          <a href="https://wasatchgift.com" class="card-link" target="_blank" rel="noopener">Visit Site<span class="visually-hidden"> (opens in new tab)</span> &rarr;</a>
         </div>
       </div>
       <div class="venture-card">
@@ -108,7 +108,7 @@ cta_link: /services
         <div class="press-attribution">
           <span>March 2026</span>
           <span class="press-separator">&middot;</span>
-          <a href="https://www.crmbuyer.com/story/ai-in-customer-service-efficiency-gains-workflows-still-fractured-177618.html" target="_blank" rel="noopener">Read the article &rarr;</a>
+          <a href="https://www.crmbuyer.com/story/ai-in-customer-service-efficiency-gains-workflows-still-fractured-177618.html" target="_blank" rel="noopener">Read the article<span class="visually-hidden"> (opens in new tab)</span> &rarr;</a>
         </div>
       </div>
       <div class="press-item">
@@ -117,7 +117,7 @@ cta_link: /services
         <div class="press-attribution">
           <span>April 2026</span>
           <span class="press-separator">&middot;</span>
-          <a href="https://www.ecommercetimes.com/story/seo-here-to-stay-say-marketing-leaders-178516.html" target="_blank" rel="noopener">Read the article &rarr;</a>
+          <a href="https://www.ecommercetimes.com/story/seo-here-to-stay-say-marketing-leaders-178516.html" target="_blank" rel="noopener">Read the article<span class="visually-hidden"> (opens in new tab)</span> &rarr;</a>
         </div>
       </div>
       <div class="press-item">
@@ -126,7 +126,7 @@ cta_link: /services
         <div class="press-attribution">
           <span>April 2026</span>
           <span class="press-separator">&middot;</span>
-          <a href="https://techround.co.uk/artificial-intelligence/it-may-not-be-intentional-but-ai-bias-is-real-and-its-already-distorting-real-world-outcomes-experts-comment/" target="_blank" rel="noopener">Read the article &rarr;</a>
+          <a href="https://techround.co.uk/artificial-intelligence/it-may-not-be-intentional-but-ai-bias-is-real-and-its-already-distorting-real-world-outcomes-experts-comment/" target="_blank" rel="noopener">Read the article<span class="visually-hidden"> (opens in new tab)</span> &rarr;</a>
         </div>
       </div>
       <div class="press-item">
@@ -135,7 +135,7 @@ cta_link: /services
         <div class="press-attribution">
           <span>May 2026</span>
           <span class="press-separator">&middot;</span>
-          <a href="https://www.technewsworld.com/story/gartner-predicts-ai-search-will-fatten-pr-budgets-180346.html" target="_blank" rel="noopener">Read the article &rarr;</a>
+          <a href="https://www.technewsworld.com/story/gartner-predicts-ai-search-will-fatten-pr-budgets-180346.html" target="_blank" rel="noopener">Read the article<span class="visually-hidden"> (opens in new tab)</span> &rarr;</a>
         </div>
       </div>
     </div>

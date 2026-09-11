@@ -26,7 +26,7 @@ permalink: /advance
     <div class="advance-step">
       <div class="advance-letter">A</div>
       <div class="advance-step-content">
-        <h3>Automate</h3>
+        <h2>Automate</h2>
         <p>If you're doing something 2-3 times, hand it to an LLM. It's worth automating.</p>
       </div>
     </div>
@@ -34,7 +34,7 @@ permalink: /advance
     <div class="advance-step">
       <div class="advance-letter">D</div>
       <div class="advance-step-content">
-        <h3>Document Everything</h3>
+        <h2>Document Everything</h2>
         <p>Transcribe your world. Build a personal Wikipedia about you, your business, your brand voice. This context is gold for personalizing every AI interaction you have going forward.</p>
       </div>
     </div>
@@ -42,7 +42,7 @@ permalink: /advance
     <div class="advance-step">
       <div class="advance-letter">V</div>
       <div class="advance-step-content">
-        <h3>Voice to Text</h3>
+        <h2>Voice to Text</h2>
         <p>The average person speaks 150 words per minute. Talking to your LLM is faster, more natural, and opens up brainstorming you wouldn't get from typing. Try speech mode on your next commute.</p>
       </div>
     </div>
@@ -50,7 +50,7 @@ permalink: /advance
     <div class="advance-step">
       <div class="advance-letter">A</div>
       <div class="advance-step-content">
-        <h3>Allocate Time</h3>
+        <h2>Allocate Time</h2>
         <p>Put an hour on your calendar every day for AI. Learning, reading, experimenting. In a few months, the gap between you and the people who didn't will be noticeable.</p>
       </div>
     </div>
@@ -58,7 +58,7 @@ permalink: /advance
     <div class="advance-step">
       <div class="advance-letter">N</div>
       <div class="advance-step-content">
-        <h3>Network</h3>
+        <h2>Network</h2>
         <p>Take a course. Join an engaged AI community. The people you meet at the same learning level will become your sounding board and your accountability.</p>
       </div>
     </div>
@@ -66,7 +66,7 @@ permalink: /advance
     <div class="advance-step">
       <div class="advance-letter">C</div>
       <div class="advance-step-content">
-        <h3>Coach Up</h3>
+        <h2>Coach Up</h2>
         <p>Use your LLM as a coach, mentor, and teacher. It's the best resource available to you right now, and the paid plans are affordable for what you get.</p>
       </div>
     </div>
@@ -74,7 +74,7 @@ permalink: /advance
     <div class="advance-step">
       <div class="advance-letter">E</div>
       <div class="advance-step-content">
-        <h3>Expose Yourself</h3>
+        <h2>Expose Yourself</h2>
         <p>Follow the great thinkers in this space. Read the articles, listen to the podcasts, scroll the posts on X and LinkedIn. It seeps in. Over time, you'll understand more than you think.</p>
       </div>
     </div>

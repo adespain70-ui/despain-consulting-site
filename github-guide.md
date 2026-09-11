@@ -26,7 +26,7 @@ permalink: /github-guide
     <div class="advance-step">
       <div class="advance-letter">1</div>
       <div class="advance-step-content">
-        <h3>Make your GitHub account</h3>
+        <h2>Make your GitHub account</h2>
         <p>Go to <strong>github.com</strong> and click Sign up. Pick a username, enter your email, choose a password, and verify the email. Nothing to install.</p>
         <p>Optional: click the green <strong>New</strong> button to create your first repo (your first project folder). You can skip this for now and come back to it.</p>
       </div>
@@ -35,7 +35,7 @@ permalink: /github-guide
     <div class="advance-step">
       <div class="advance-letter">2</div>
       <div class="advance-step-content">
-        <h3>Connect it to Claude, two ways</h3>
+        <h2>Connect it to Claude, two ways</h2>
         <p><strong>The easy way (let Claude read your repo):</strong> open a Claude chat, click the <strong>+</strong> on the message box, choose <strong>Add from GitHub</strong>, and pick the repo or files you want. This is how I use it as a knowledge base.</p>
         <p><strong>The builder way (let Claude work in your code):</strong> go to <strong>claude.ai/code</strong>, sign in with your GitHub account, pick a repo, and give it a task.</p>
       </div>
@@ -44,7 +44,7 @@ permalink: /github-guide
     <div class="advance-step">
       <div class="advance-letter">3</div>
       <div class="advance-step-content">
-        <h3>Want Claude to create the repo for you?</h3>
+        <h2>Want Claude to create the repo for you?</h2>
         <p>You do not even have to make the repo yourself. In <strong>claude.ai/code</strong>, signed in with GitHub, just ask: "Create a new repo for this project and push it up." It sets everything up, and you approve each step along the way.</p>
       </div>
     </div>
@@ -69,7 +69,7 @@ permalink: /github-guide
     <div class="advance-step">
       <div class="advance-letter">+</div>
       <div class="advance-step-content">
-        <h3>Bonus: share your team's AI skills from one place</h3>
+        <h2>Bonus: share your team's AI skills from one place</h2>
         <p>Once you are comfortable, a repo is also where a team can store its custom Claude skills, so everyone loads the exact same ones instead of reinventing them. One source of truth. That is the real unlock for a business.</p>
       </div>
     </div>

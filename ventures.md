@@ -20,7 +20,7 @@ A gift shop featuring products from local Utah makers. This venture showcases re
 - Gift personalization and customer experience
 - E-commerce operations and fulfillment
 
-<a href="https://wasatchgift.com" class="btn btn-secondary" target="_blank" rel="noopener">Visit Wasatch Gift</a>
+<a href="https://wasatchgift.com" class="btn btn-secondary" target="_blank" rel="noopener">Visit Wasatch Gift<span class="visually-hidden"> (opens in new tab)</span></a>
 
 <hr class="section-divider">
 

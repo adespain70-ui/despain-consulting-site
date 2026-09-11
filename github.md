@@ -21,7 +21,7 @@ permalink: /github
     <script async data-uid="e87d0587ee" src="https://despain-consulting.kit.com/e87d0587ee/index.js"></script>
     <!-- KIT-FORM-END -->
 
-    <p style="text-align:center;font-size:0.9rem;color:var(--color-accent);margin-top:1.5rem;">
+    <p style="text-align:center;font-size:0.9rem;color:var(--color-text-muted);margin-top:1.5rem;">
       No spam, unsubscribe anytime. See our <a href="/privacy-policy">privacy policy</a>.
     </p>
 

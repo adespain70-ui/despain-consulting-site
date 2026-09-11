@@ -21,7 +21,7 @@
         <div class="footer-section">
           <p class="footer-heading">Connect</p>
           <ul>
-            <li><a href="https://www.linkedin.com/in/annedespain/" target="_blank" rel="noopener">LinkedIn</a></li>
+            <li><a href="https://www.linkedin.com/in/annedespain/" target="_blank" rel="noopener">LinkedIn<span class="visually-hidden"> (opens in new tab)</span></a></li>
           </ul>
         </div>
       </div>
@@ -35,8 +35,9 @@
 <script>
   // Mobile nav toggle
   document.querySelector('.nav-toggle').addEventListener('click', function() {
-    document.querySelector('.site-nav').classList.toggle('active');
-    this.classList.toggle('active');
+    var open = document.querySelector('.site-nav').classList.toggle('active');
+    this.classList.toggle('active', open);
+    this.setAttribute('aria-expanded', open ? 'true' : 'false');
   });
 
   // Booking funnel events
