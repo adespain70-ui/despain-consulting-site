@@ -22,7 +22,7 @@ permalink: /github
     <!-- KIT-FORM-END -->
 
     <p style="text-align:center;font-size:0.9rem;color:var(--color-text-muted);margin-top:1.5rem;">
-      No spam, unsubscribe anytime. See our <a href="/privacy-policy">privacy policy</a>.
+      I'll send the guide right over, plus the occasional plain-English AI tip. Unsubscribe anytime. See our <a href="/privacy-policy">privacy policy</a>.
     </p>
 
   </div>
