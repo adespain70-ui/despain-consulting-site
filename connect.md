@@ -17,8 +17,8 @@ permalink: /connect
 <section class="advance-framework">
   <div class="container">
 
-    <!-- KIT-FORM-START (data-uid PENDING Anne's CONNECT form) -->
-    <!-- <script async data-uid="XXXXXXXXXX" src="https://despain-consulting.kit.com/XXXXXXXXXX/index.js"></script> -->
+    <!-- KIT-FORM-START -->
+    <script async data-uid="49a7d63de0" src="https://despain-consulting.kit.com/49a7d63de0/index.js"></script>
     <!-- KIT-FORM-END -->
 
     <p style="text-align:center;font-size:0.9rem;color:var(--color-text-muted);margin-top:1.5rem;">
