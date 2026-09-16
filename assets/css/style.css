@@ -445,6 +445,55 @@ main {
 }
 
 /* ===== Footer ===== */
+.footer-newsletter {
+  background: var(--color-bg-alt);
+  border-top: 1px solid var(--color-border);
+  padding: calc(var(--spacing-unit) * 4) 0;
+  margin-top: calc(var(--spacing-unit) * 4);
+}
+
+.footer-newsletter-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: calc(var(--spacing-unit) * 4);
+  align-items: center;
+}
+
+.footer-newsletter-eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-size: 0.75rem;
+  color: var(--color-accent);
+  margin-bottom: 0.5rem;
+}
+
+.footer-newsletter-copy h2 {
+  margin: 0 0 0.5rem;
+  color: var(--color-primary-dark);
+}
+
+.footer-newsletter-sub {
+  color: var(--color-primary-dark);
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.footer-newsletter-form {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .footer-newsletter-inner {
+    grid-template-columns: 1fr;
+    gap: calc(var(--spacing-unit) * 2);
+  }
+}
+
+/* The newsletter band already provides top margin, so the footer omits its own. */
+.footer-newsletter + .site-footer {
+  margin-top: 0;
+}
+
 .site-footer {
   background: var(--color-primary-dark);
   color: white;

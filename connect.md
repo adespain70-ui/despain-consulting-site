@@ -4,6 +4,7 @@ title: Connect GitHub to Claude
 seo_title: "Connect Your GitHub to Claude in Plain English | Free Guide | DeSpain Consulting"
 description: The plain-English guide to connecting your GitHub to Claude. No terminal, no code. Enter your email and I'll send it to your inbox.
 permalink: /connect
+hide_newsletter: true
 ---
 
 <section class="advance-hero">

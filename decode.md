@@ -4,6 +4,7 @@ title: API, MCP, CLI Decoded
 seo_title: "API, MCP, CLI Explained in Plain English | Free Guide | DeSpain Consulting"
 description: The three AI acronyms you keep hearing, decoded in plain English. Enter your email and I'll send the guide to your inbox.
 permalink: /decode
+hide_newsletter: true
 ---
 
 <section class="advance-hero">

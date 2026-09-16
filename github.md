@@ -4,6 +4,7 @@ title: Get the Plain-English GitHub Guide
 seo_title: "Free Plain-English GitHub Setup Guide | DeSpain Consulting"
 description: The free no-code GitHub setup guide. Enter your email and I'll send it straight to your inbox.
 permalink: /github
+hide_newsletter: true
 ---
 
 <section class="advance-hero">
