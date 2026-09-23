@@ -138,6 +138,15 @@ cta_link: /services
           <a href="https://www.technewsworld.com/story/gartner-predicts-ai-search-will-fatten-pr-budgets-180346.html" target="_blank" rel="noopener">Read the article<span class="visually-hidden"> (opens in new tab)</span> &rarr;</a>
         </div>
       </div>
+      <div class="press-item">
+        <p class="press-publication">E-Commerce Times</p>
+        <blockquote>"Reddit is where real people describe real problems in their own words, organized by topic, and it licensed its content into AI answers, so it gets pulled into responses and cited constantly."</blockquote>
+        <div class="press-attribution">
+          <span>September 2026</span>
+          <span class="press-separator">&middot;</span>
+          <a href="https://www.ecommercetimes.com/story/google-openai-chatgpt-dominate-ai-referred-web-traffic-178675.html" target="_blank" rel="noopener">Read the article<span class="visually-hidden"> (opens in new tab)</span> &rarr;</a>
+        </div>
+      </div>
     </div>
   </div>
 </section>
