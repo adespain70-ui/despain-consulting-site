@@ -29,6 +29,22 @@ A focused, no-fluff session to identify where AI can make the biggest difference
 
 ---
 
+### Intro to AI · $150
+{: #intro-to-ai}
+
+A plain-English introduction to AI for people who want to get comfortable with the tools before applying them to a business.
+
+<!-- TODO before launch: replace the two placeholder bullets and the booking link below with the final details. -->
+**What's included:**
+- [Session length and format]
+- [What you walk away with]
+
+**Who it's for:** Individuals and teams who are new to AI and want a practical grounding in the fundamentals. If you're ready to map AI to your business operations, the AI Opportunity Audit above is the better fit.
+
+[Book Intro to AI ($150)](https://zcal.co/adespain/INTRO-TO-AI-LINK-TBD){: .btn .btn-primary}
+
+---
+
 ### Custom & Bespoke Projects
 
 For teams that need ongoing strategy, implementation, or a fractional AI operations partner.

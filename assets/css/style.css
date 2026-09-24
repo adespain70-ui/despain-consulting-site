@@ -856,6 +856,18 @@ main {
   color: var(--color-primary-dark);
 }
 
+.advance-cta-alt {
+  color: #fff;
+  font-size: 0.95rem;
+  margin-top: calc(var(--spacing-unit) * 1.5);
+}
+
+.advance-cta-alt a {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
 /* ===== CTA Band ===== */
 .cta-band {
   background: var(--color-primary);
