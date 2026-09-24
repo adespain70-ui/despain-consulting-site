@@ -16,7 +16,7 @@ permalink: /github-guide
 <section class="advance-intro">
   <div class="container">
     <p class="advance-quote">"Everyone building with AI keeps saying GitHub."</p>
-    <p>I run a business, I do not write code, and I am in GitHub every week. Here is the whole thing in plain English: how to set it up, how to connect it to Claude, and the handful of words you will actually hear.</p>
+    <p>I run a business, I do not write code, and I am in GitHub every week. Here is the whole thing in plain English: how to set it up, how to connect it to Claude, and the handful of words you will hear.</p>
   </div>
 </section>
 
