@@ -10,7 +10,7 @@ subtitle: Operations expertise meets AI capability
 
 DeSpain Consulting was founded by Anne DeSpain, who spent 20+ years inside some of retail's most complex operations: **Amazon**, **Myer**, **Sundance Catalog**, **J Crew**, and **Limited Brands**. From department store buying in Australia to wholesale sales in the surf industry, that career spanned major corporations to boutique formats, building deep expertise in merchandising, planning, inventory, and the systems that make operations run.
 
-That background isn't separate from the AI work. It's the foundation.
+That background is the foundation for all of the AI work.
 
 ## Why It Matters
 
@@ -66,7 +66,7 @@ We specialize in helping purpose-driven brands and organizations that prioritize
 
 <div class="testimonial">
   <blockquote>"Anne presented the information in an approachable and actionable format. She is knowledgeable, while still curious and engaged in what is coming next. I'm looking forward to learning more from Anne."</blockquote>
-  <cite>— Workshop Attendee, Summit County AI Literacy Series</cite>
+  <cite>Workshop Attendee, Summit County AI Literacy Series</cite>
 </div>
 
 ---
@@ -75,7 +75,7 @@ We specialize in helping purpose-driven brands and organizations that prioritize
 
 AI adoption moves faster when people learn together. Outside client work, Anne invests in community AI education across Utah:
 
-- **Co-organized the 2026 Women Build AI Retreat** in Salt Lake City, a capacity three-day gathering of more than 65 women working in AI, built around hands-on workshops, live tool demos, and peer learning
+- **Co-organized the 2026 Women Build AI Retreat** in Salt Lake City, a full-capacity three-day gathering of more than 65 women working in AI, built around hands-on workshops, live tool demos, and peer learning
 - **Teaches free AI literacy workshops** for Summit County residents, covering fundamentals and safe, practical everyday use
 - **Speaks in the MIT-backed Women Build AI Academy series**, including live demos of the AI systems she builds and runs herself
 
@@ -88,19 +88,19 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
 <div class="cert-carousel">
   <button class="cert-nav cert-nav-prev" type="button" aria-label="Previous certificates">&#8249;</button>
   <div class="cert-images" tabindex="0" role="region" aria-label="Anthropic certificates, scroll horizontally">
-    <img src="/assets/images/cert-anthropic-claude-101.jpg" alt="Claude 101 — Anthropic">
-    <img src="/assets/images/cert-anthropic-claude-platform-101.jpg" alt="Claude Platform 101 — Anthropic">
-    <img src="/assets/images/cert-anthropic-claude-code-101.jpg" alt="Claude Code 101 — Anthropic">
-    <img src="/assets/images/cert-anthropic-claude-code-in-action.jpg" alt="Claude Code in Action — Anthropic">
-    <img src="/assets/images/cert-anthropic-ai-fluency.jpg" alt="AI Fluency: Framework & Foundations — Anthropic">
-    <img src="/assets/images/cert-anthropic-intro-claude-cowork.jpg" alt="Introduction to Claude Cowork — Anthropic">
-    <img src="/assets/images/cert-anthropic-intro-agent-skills.jpg" alt="Introduction to Agent Skills — Anthropic">
-    <img src="/assets/images/cert-anthropic-ai-fluency-small-business.jpg" alt="AI Fluency for Small Businesses — Anthropic">
-    <img src="/assets/images/cert-anthropic-intro-subagents.jpg" alt="Introduction to Subagents — Anthropic">
-    <img src="/assets/images/cert-anthropic-ai-fluency-educators.jpg" alt="AI Fluency for Educators — Anthropic">
-    <img src="/assets/images/cert-anthropic-teaching-ai-fluency-framework.jpg" alt="Teaching the AI Fluency Framework — Anthropic">
-    <img src="/assets/images/cert-anthropic-ai-fluency-capabilities-limitations.jpg" alt="AI Fluency: AI Capabilities & Limitations — Anthropic">
-    <img src="/assets/images/cert-anthropic-ai-fluency-builders.jpg" alt="AI Fluency for Builders — Anthropic">
+    <img src="/assets/images/cert-anthropic-claude-101.jpg" alt="Claude 101, Anthropic">
+    <img src="/assets/images/cert-anthropic-claude-platform-101.jpg" alt="Claude Platform 101, Anthropic">
+    <img src="/assets/images/cert-anthropic-claude-code-101.jpg" alt="Claude Code 101, Anthropic">
+    <img src="/assets/images/cert-anthropic-claude-code-in-action.jpg" alt="Claude Code in Action, Anthropic">
+    <img src="/assets/images/cert-anthropic-ai-fluency.jpg" alt="AI Fluency: Framework & Foundations, Anthropic">
+    <img src="/assets/images/cert-anthropic-intro-claude-cowork.jpg" alt="Introduction to Claude Cowork, Anthropic">
+    <img src="/assets/images/cert-anthropic-intro-agent-skills.jpg" alt="Introduction to Agent Skills, Anthropic">
+    <img src="/assets/images/cert-anthropic-ai-fluency-small-business.jpg" alt="AI Fluency for Small Businesses, Anthropic">
+    <img src="/assets/images/cert-anthropic-intro-subagents.jpg" alt="Introduction to Subagents, Anthropic">
+    <img src="/assets/images/cert-anthropic-ai-fluency-educators.jpg" alt="AI Fluency for Educators, Anthropic">
+    <img src="/assets/images/cert-anthropic-teaching-ai-fluency-framework.jpg" alt="Teaching the AI Fluency Framework, Anthropic">
+    <img src="/assets/images/cert-anthropic-ai-fluency-capabilities-limitations.jpg" alt="AI Fluency: AI Capabilities & Limitations, Anthropic">
+    <img src="/assets/images/cert-anthropic-ai-fluency-builders.jpg" alt="AI Fluency for Builders, Anthropic">
   </div>
   <button class="cert-nav cert-nav-next" type="button" aria-label="Next certificates">&#8250;</button>
 </div>
@@ -113,7 +113,7 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
     <img src="/assets/images/cert-ai-operator.jpg" alt="Certified AI Operator - The AI Exchange">
     <img src="/assets/images/cert-ai-foundations.jpg" alt="How To Scale A Business With AI & Agentic Workflows - Foundations Certificate">
     <img src="/assets/images/cert-agentic-workflows.jpg" alt="Master Market-Ready Agentic AI Workflows Certificate">
-    <img src="/assets/images/cert-anthropic-agent-native-os.jpg" alt="Install an Agent Native OS in One Day with Claude Code — AI Build Lab">
+    <img src="/assets/images/cert-anthropic-agent-native-os.jpg" alt="Install an Agent Native OS in One Day with Claude Code, AI Build Lab">
   </div>
   <button class="cert-nav cert-nav-next" type="button" aria-label="Next certificates">&#8250;</button>
 </div>
@@ -139,7 +139,7 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
 
     function updateState() {
       if (!overflows()) {
-        // Everything fits — no need for arrows on this row.
+        // Everything fits, so no need for arrows on this row.
         carousel.classList.remove('is-enhanced');
         return;
       }

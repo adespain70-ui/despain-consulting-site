@@ -35,7 +35,7 @@ permalink: /found-guide
       <div class="advance-letter">AEO</div>
       <div class="advance-step-content">
         <h2>Answer Engine Optimization</h2>
-        <p>Getting your name <strong>inside</strong> the AI's written answer, instead of ranking as a link under it. The prize is no longer the click. It is the mention.</p>
+        <p>Getting your name <strong>inside</strong> the AI's written answer, instead of ranking as a link under it. The prize now is the mention.</p>
       </div>
     </div>
     <div class="advance-step">
@@ -59,7 +59,7 @@ permalink: /found-guide
     <h2>Why this matters now</h2>
     <p>The honest version: AI traffic is still small. But it converts, and you cannot get added to a shortlist after the fact.</p>
     <p class="advance-quote">This year, across every referral source that sent my own store traffic, the only one that produced a sale was ChatGPT. Real orders, at roughly an 8% conversion rate. Every traditional referrer sent visits and zero orders.</p>
-    <p>Search told the same story with a twist. Google sent the most traffic, but Bing and DuckDuckGo converted, together they drove a real share of my search sales. The lesson is not to chase Google. It is to be clear and accessible everywhere an engine or an agent looks.</p>
+    <p>Search told the same story with a twist. Google sent the most traffic, but Bing and DuckDuckGo converted, together they drove a real share of my search sales. The lesson: stop chasing Google alone, and be clear and accessible everywhere an engine or an agent looks.</p>
   </div>
 </section>
 
@@ -69,7 +69,7 @@ permalink: /found-guide
       <div class="advance-letter">1</div>
       <div class="advance-step-content">
         <h2>Say the same thing everywhere</h2>
-        <p>Your site, every bio, review sites, directories, your email signature. An AI does not look you up in a database. It notices which words keep appearing next to your name. Four different descriptions give it nothing confident to repeat, so it names a competitor. Consistency is not tidiness. It is the mechanism.</p>
+        <p>Your site, every bio, review sites, directories, your email signature. An AI does not look you up in a database. It notices which words keep appearing next to your name. Four different descriptions give it nothing confident to repeat, so it names a competitor. That consistency is how an AI decides to name you.</p>
       </div>
     </div>
     <div class="advance-step">

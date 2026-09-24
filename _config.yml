@@ -2,6 +2,15 @@ title: DeSpain Consulting
 description: Removing friction from your business with AI-powered systems that actually fit how you work.
 url: "https://despain-consulting.com"
 baseurl: ""
+lang: en_US
+logo: /assets/images/logo.png
+
+# SEO / social previews (used by jekyll-seo-tag)
+author: Anne DeSpain
+social:
+  name: DeSpain Consulting
+  links:
+    - https://www.linkedin.com/in/annedespain/
 
 # Plugins
 plugins:
@@ -25,6 +34,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+      image: /assets/images/og-default.png
   - scope:
       path: ""
       type: "ventures"

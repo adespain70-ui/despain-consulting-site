@@ -3,10 +3,10 @@ layout: page
 title: Work With Me
 seo_title: "AI Consulting Services & Automation Audit for Small Business | DeSpain Consulting"
 description: "Book an AI Opportunity Audit for $350. We help small business owners and founders identify where AI automation can save time and grow revenue. Park City, Utah."
-subtitle: AI audit and automation — built for how your life and business operates
+subtitle: AI audit and automation, built for how your life and business operate
 ---
 
-Most AI projects fail because the people building them don't understand the business deeply enough. We bring 20+ years of operational experience to every engagement — which means we know what questions to ask, where the real friction lives, and how to build solutions that hold up in practice with strong team adoption.
+Most AI projects fail because the people building them don't understand the business deeply enough. We bring 20+ years of operational experience to every engagement, so we know what questions to ask, where the real friction lives, and how to build solutions that hold up in practice with strong team adoption.
 
 ---
 
@@ -33,7 +33,7 @@ A focused, no-fluff session to identify where AI can make the biggest difference
 
 For teams that need ongoing strategy, implementation, or a fractional AI operations partner.
 
-Every custom engagement starts with a scoping conversation. No fixed price — curated around your specific situation, timeline, and goals.
+Every custom engagement starts with a scoping conversation. Pricing is tailored to your specific situation, timeline, and goals.
 
 [Let's discuss your scope](mailto:anne@despain-consulting.com){: .btn .btn-primary}
 
@@ -54,6 +54,6 @@ We work best with businesses that:
 
 Payment is collected at the time of booking via Stripe. All sessions are conducted via video call and confirmed within 24 hours of payment.
 
-**Satisfaction guarantee:** If you don't walk away with at least 3 actionable AI opportunities specific to your business, we'll refund your investment in full — no questions asked.
+**Satisfaction guarantee:** If you don't walk away with at least 3 actionable AI opportunities specific to your business, we'll refund your investment in full, no questions asked.
 
 **Cancellations:** Full refund for cancellations made 48 or more hours before your scheduled session. Cancellations within 48 hours are non-refundable, but your session can be rescheduled with 24 hours notice. Rescheduling is always available.

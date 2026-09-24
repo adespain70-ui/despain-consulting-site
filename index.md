@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: DeSpain Consulting
 seo_title: "AI Workflow Automation & Operations Consulting | DeSpain Consulting | Park City, UT"
 description: "DeSpain Consulting helps small businesses and founders eliminate operational friction with AI-powered automation. Based in Park City, Utah. Book an AI Opportunity Audit today."
 headline: Running a business shouldn't feel this hard.
@@ -91,7 +91,7 @@ cta_link: /services
     </div>
     <div class="testimonial">
       <blockquote>"Anne presented the information in an approachable and actionable format. She is knowledgeable, while still curious and engaged in what is coming next. I'm looking forward to learning more from Anne."</blockquote>
-      <cite>— Workshop Attendee</cite>
+      <cite>Workshop Attendee</cite>
     </div>
   </div>
 </section>
