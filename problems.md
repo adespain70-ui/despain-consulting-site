@@ -2,15 +2,15 @@
 layout: page
 title: Problems We Solve
 seo_title: "Business Automation Problems We Solve | AI Consulting | DeSpain Consulting"
-description: "Manual work, scaling bottlenecks, decision-making without data — DeSpain Consulting helps Utah small businesses solve operational friction with AI-powered systems."
+description: "Manual work, scaling bottlenecks, decision-making without data. DeSpain Consulting helps Utah small businesses solve operational friction with AI-powered systems."
 subtitle: We focus on the friction points that hold businesses back
 ---
 
 ## Manual Work Eating Your Team's Time
 
-Your team is spending hours on tasks that should take minutes. Data entry, report generation, status updates, inventory checks. The list goes on. This isn't just inefficient; it's expensive and demoralizing.
+Your team is spending hours on tasks that should take minutes. Data entry, report generation, status updates, inventory checks. The list goes on. The work is inefficient, expensive, and demoralizing.
 
-**Our approach:** We identify the highest-impact automation opportunities and build systems that handle the repetitive work. Not generic tools, but solutions tailored to how your business actually operates.
+**Our approach:** We identify the highest-impact automation opportunities and build systems that handle the repetitive work. Every solution is tailored to how your business actually operates.
 
 ---
 
@@ -18,7 +18,7 @@ Your team is spending hours on tasks that should take minutes. Data entry, repor
 
 You're making critical business decisions without the data you need. Reports are outdated by the time they reach you. Key metrics are scattered across spreadsheets, or worse, living in someone's head.
 
-**Our approach:** We build visibility into what actually matters. Real-time dashboards, automated reporting, and data structures that give you confidence in your decisions. Not just more data, but the right data at the right time.
+**Our approach:** We build visibility into what actually matters. Real-time dashboards, automated reporting, and data structures that give you confidence in your decisions. You get the right data at the right time.
 
 ---
 
@@ -26,7 +26,7 @@ You're making critical business decisions without the data you need. Reports are
 
 Growth should be exciting, not terrifying. But right now, every new customer or product line means more people, more complexity, more things that can break.
 
-**Our approach:** We design processes that scale without proportional headcount. This means identifying which parts of your operation can be systematized and building the infrastructure to support 10x growth.
+**Our approach:** We design processes that scale without proportional headcount. This means identifying which parts of your operation can be systematized and building the infrastructure to support real growth.
 
 ---
 

@@ -1,41 +1,73 @@
 # DeSpain Consulting
 
-> AI-powered operations consulting for small businesses and founders. We remove operational friction using AI systems tailored to how you actually work. Based in Park City, Utah, serving clients worldwide.
+> AI-powered operations consulting for small businesses and founders. We remove the friction that's costing businesses time and money, using AI-powered systems that fit how they actually work. Based in Park City, Utah, working with clients worldwide.
 
-DeSpain Consulting was founded by Anne DeSpain, who brings 20+ years of retail operations experience from Amazon, Myer, Sundance Catalog, J.Crew, and Limited Brands. The firm specializes in helping purpose-driven brands and small businesses implement practical AI automation — not theoretical proofs of concept, but working systems that survive contact with the real world.
+DeSpain Consulting was founded by Anne DeSpain, who brings 20+ years of retail operations experience from Amazon, Myer, Sundance Catalog, J.Crew, and Limited Brands. The firm helps small businesses, founders, and purpose-driven brands put practical AI automation to work: working systems that hold up in day-to-day operations, tested first in businesses we own and operate ourselves.
 
-## Core Services
+## Services
 
-- **Process Automation** — Identify and eliminate repetitive manual work with AI-powered workflows tailored to your operations
-- **Decision Visibility** — Real-time dashboards and automated reporting so critical data reaches the right people at the right time
-- **Scaling Systems** — Design processes that support growth without proportional headcount increases
-- **AI Strategy** — Cut through the hype and identify where AI genuinely moves the needle for your specific business
+- **AI Opportunity Audit ($350):** A 30-minute strategy session plus a personalized audit report, delivered within 24 hours, mapping the highest-value AI opportunities to your specific operations. Backed by a satisfaction guarantee: at least three actionable opportunities or a full refund. The fee is credited toward a follow-on build. [Book or learn more](https://despain-consulting.com/services/)
+- **Custom and bespoke projects:** Ongoing strategy, implementation, or a fractional AI operations partner, scoped to each business.
+
+## Problems We Solve
+
+- Manual work eating the team's time
+- Decision-making without good data
+- Scaling bottlenecks that require adding headcount
+- Reactive firefighting instead of proactive systems
+- Margin erosion from untracked inefficiencies
+- AI confusion: knowing it matters but not knowing where to start
 
 ## Approach
 
-Start with the problem, not the technology. Build for how you actually work — not generic solutions. Transfer knowledge to build internal capability, not ongoing dependency.
+Start with the problem, not the technology. Build for how the business actually works. Transfer knowledge to build internal capability instead of ongoing dependency.
+
+## Case Studies
+
+- **Programmatic ad system (Wasatch Gift, Mother's Day 2026):** $138.12 in ad spend over 15 days, 8.06% click-through rate, $0.11 cost per click, 24 orders and $6,625 in revenue during the campaign window, 47.97x blended return on ad spend.
+- **Invoice data entry:** PDF invoices are read and their vendor, date, line items, and unit costs appended to a margin-planning spreadsheet in about 30 seconds per invoice.
+- **Operations knowledge assistant (Magnolia):** A Slack-based assistant for a historic property, backed by a structured knowledge base of vendors, maintenance schedules, HOA contracts, and preservation requirements.
+
+Full details: https://despain-consulting.com/case-studies/
 
 ## Business Ventures
 
-Active businesses that demonstrate the same principles applied to client work:
-
-- [Wasatch Gift](https://wasatchgift.com): Curated artisan e-commerce featuring Utah local makers, gift personalization, and brand storytelling
-- [mAIker](https://maikerco.etsy.com): Fashion-forward apparel and accessories on Etsy, with trend-responsive product development and marketplace optimization
+- [Wasatch Gift](https://wasatchgift.com): Curated artisan gift e-commerce featuring Utah local makers, gift personalization, and brand storytelling
+- [mAIker](https://maikerco.etsy.com): AI-themed print-on-demand shop on Etsy
 
 ## AI Systems Built
 
-- **Magnolia** — Property management assistant integrating municipal databases, vendor tracking, and historic preservation compliance workflows
-- **College Scout** — Agentic research automation system for college exploration, handling multi-step research tasks across multiple sources ([try it](https://collegescout.vercel.app))
-- **Print Marketing Guru** — Custom GPT providing benchmarks and KPIs for print marketing campaigns ([try it](https://chatgpt.com/g/g-675338a3335c8191a8148d87ed288630-print-marketing-guru))
-- **Document Generation Workflow** — 55-step orchestration process with one main agent coordinating 7 specialized AI agents for complex document workflows
+- **Programmatic Ad System:** Generates, previews, and uploads ad campaigns across Meta and LinkedIn from a single command, for B2C and B2B audiences
+- **Invoice Tracker:** Automated cost data extraction from PDF invoices into a margin-planning spreadsheet
+- **Magnolia:** Slack-based home and property management agent for a historic property
+- **College Scout:** Agentic research automation for college exploration ([try it](https://collegescout.vercel.app))
+- **Print Marketing Guru:** Custom GPT providing benchmarks and KPIs for print marketing campaigns ([try it](https://chatgpt.com/g/g-675338a3335c8191a8148d87ed288630-print-marketing-guru))
+- **Document Generation Workflow:** Multi-agent orchestration with one main agent coordinating 7 specialized agents for complex document workflows
 
-## Founder Credentials
+## Press
+
+Anne DeSpain has been quoted on agentic AI, AI search, and AI bias in:
+
+- CRM Buyer (March 2026): https://www.crmbuyer.com/story/ai-in-customer-service-efficiency-gains-workflows-still-fractured-177618.html
+- E-Commerce Times (April 2026): https://www.ecommercetimes.com/story/seo-here-to-stay-say-marketing-leaders-178516.html
+- TechRound (April 2026): https://techround.co.uk/artificial-intelligence/it-may-not-be-intentional-but-ai-bias-is-real-and-its-already-distorting-real-world-outcomes-experts-comment/
+- TechNewsWorld (May 2026): https://www.technewsworld.com/story/gartner-predicts-ai-search-will-fatten-pr-budgets-180346.html
+- E-Commerce Times (September 2026): https://www.ecommercetimes.com/story/google-openai-chatgpt-dominate-ai-referred-web-traffic-178675.html
+
+## Founder Credentials and Community
 
 - Anne DeSpain, 20+ years in retail operations (Amazon, Myer, Sundance Catalog, J.Crew, Limited Brands)
-- Certified AI Operator — The AI Exchange
-- Foundations Certificate: How To Scale A Business With AI & Agentic Workflows
-- Master Market-Ready Agentic AI Workflows Certificate
-- Quoted in CRM Buyer (March 2026) and E-Commerce Times (April 2026) on agentic AI and AI search
+- Certified AI Operator, The AI Exchange
+- Anthropic courses including Claude 101, Claude Code in Action, AI Fluency for Small Businesses, and Introduction to Agent Skills
+- Co-organizer of the 2026 Women Build AI Retreat in Salt Lake City
+- Teaches free AI literacy workshops for Summit County, Utah residents
+
+## Free Guides
+
+- [Found: SEO, AEO, and GEO in Plain English](https://despain-consulting.com/found-guide): What the acronyms mean and the moves that get a business found as people search with AI
+- [The ADVANCE Framework](https://despain-consulting.com/advance): A practical seven-step way to start with AI
+- [GitHub in Plain English](https://despain-consulting.com/github-guide): A no-code GitHub setup guide
+- [Connect Your GitHub to Claude](https://despain-consulting.com/connect-guide): A no-code guide to connecting GitHub to Claude
 
 ## Contact
 
@@ -45,8 +77,10 @@ Active businesses that demonstrate the same principles applied to client work:
 
 ## Site Pages
 
-- [Home](https://despain-consulting.com/): Overview of services, problems solved, ventures, and client testimonials
-- [About](https://despain-consulting.com/about/): Founder background, services, approach, and certifications
-- [Problems We Solve](https://despain-consulting.com/problems/): Detailed breakdown of the six core operational friction points addressed
-- [Ventures & Projects](https://despain-consulting.com/ventures/): Business ventures and custom AI systems portfolio
+- [Home](https://despain-consulting.com/): Overview of problems solved, ventures, testimonials, and press
+- [Problems We Solve](https://despain-consulting.com/problems/): The six operational friction points we address
+- [Case Studies](https://despain-consulting.com/case-studies/): Real systems and results from businesses we operate
+- [Ventures & Projects](https://despain-consulting.com/ventures/): Business ventures and custom AI systems
+- [Work With Us](https://despain-consulting.com/services/): The AI Opportunity Audit and custom engagements
+- [About](https://despain-consulting.com/about/): Founder background, approach, community work, and certifications
 - [Contact](https://despain-consulting.com/contact/): How to get in touch and what to expect
