@@ -8,6 +8,8 @@ subtitle: AI audit and automation, built for how your life and business operate
 
 Most AI projects fail because the people building them don't understand the business deeply enough. We bring 20+ years of operational experience to every engagement, so we know what questions to ask, where the real friction lives, and how to build solutions that hold up in practice with strong team adoption.
 
+New to AI, or leveling up on your own? [Get Started with AI ($150)](/start) is the one-on-one on-ramp for individuals.
+
 ---
 
 ## Engagement Options

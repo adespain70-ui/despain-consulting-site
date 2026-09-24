@@ -73,6 +73,8 @@
       gtag('event', 'booking_click', params);
     } else if (/^\/services\/?$/.test(href)) {
       gtag('event', 'services_cta_click', params);
+    } else if (/^\/start\/?$/.test(href)) {
+      gtag('event', 'start_cta_click', params);
     } else if (href.indexOf('mailto:') === 0) {
       gtag('event', 'email_click', params);
     }

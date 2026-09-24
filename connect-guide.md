@@ -83,8 +83,8 @@ permalink: /connect-guide
 <section class="advance-cta">
   <div class="container">
     <p class="advance-cta-headline">You do not have to become a coder.</p>
-    <p class="advance-cta-sub">If you want help putting AI to work in your business, an AI Opportunity Audit is the fastest way in.</p>
-    <a href="/services" class="btn btn-primary">Book an AI Opportunity Audit</a>
+    <p class="advance-cta-sub">If you want a hand putting AI to work for you, we can do it together in one hour.</p>
+    <a href="/start" class="btn btn-primary">Get Started with AI ($150)</a>
     <p style="text-align:center;font-size:0.95rem;color:#fff;margin-top:1.5rem;">
       Prefer a saveable version? <a href="/assets/guides/connect-github-to-claude.pdf" style="color:#fff;text-decoration:underline;font-weight:600;">Download the PDF</a>.
     </p>

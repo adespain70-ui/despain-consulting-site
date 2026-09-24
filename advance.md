@@ -85,7 +85,7 @@ permalink: /advance
 <section class="advance-cta">
   <div class="container">
     <p class="advance-cta-headline">You don't need to do all seven at once.</p>
-    <p class="advance-cta-sub">Pick two. Start there. And if you want help building your ADVANCE plan, an AI Opportunity Audit is the fastest way in.</p>
-    <a href="/services" class="btn btn-primary">Book an AI Opportunity Audit</a>
+    <p class="advance-cta-sub">Pick two. Start there. And if you want a hand putting it into practice, we can do it together in one hour.</p>
+    <a href="/start" class="btn btn-primary">Get Started with AI ($150)</a>
   </div>
 </section>
