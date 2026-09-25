@@ -139,11 +139,13 @@ main {
 .site-logo {
   display: flex;
   align-items: center;
+  flex-shrink: 0;
 }
 
 .site-logo .logo-img {
   height: 110px;
   width: auto;
+  flex-shrink: 0;
 }
 
 .site-logo:hover {
