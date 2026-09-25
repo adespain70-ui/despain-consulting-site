@@ -432,6 +432,58 @@ main {
   text-decoration: underline;
 }
 
+/* ===== Founder Photo ===== */
+.why-layout {
+  display: grid;
+  grid-template-columns: minmax(220px, 300px) 1fr;
+  gap: calc(var(--spacing-unit) * 3);
+  align-items: start;
+}
+
+.why-layout .why-grid {
+  grid-template-columns: 1fr;
+  gap: calc(var(--spacing-unit) * 1.75);
+}
+
+.founder-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.founder-photo figcaption {
+  margin-top: 0.75rem;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+}
+
+.founder-photo-about {
+  float: right;
+  width: 260px;
+  margin: 0 0 calc(var(--spacing-unit) * 1.5) calc(var(--spacing-unit) * 2);
+}
+
+@media (max-width: 768px) {
+  .why-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .why-layout .founder-photo {
+    max-width: 260px;
+    margin: 0 auto;
+  }
+
+  .founder-photo-about {
+    float: none;
+    width: 100%;
+    max-width: 260px;
+    margin: 0 auto calc(var(--spacing-unit) * 1.5);
+  }
+}
+
 /* ===== Offer Cards ===== */
 .offer-grid {
   display: grid;

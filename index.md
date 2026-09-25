@@ -95,7 +95,12 @@ faq:
       <h2>Why Work With DeSpain Consulting</h2>
       <p>Large-company operations rigor, applied to businesses of any size</p>
     </div>
-    <div class="why-grid">
+    <div class="why-layout">
+      <figure class="founder-photo">
+        <img src="/assets/images/anne-despain.jpg" alt="Anne DeSpain, founder of DeSpain Consulting" width="600" height="837" loading="lazy">
+        <figcaption>Anne DeSpain, Founder</figcaption>
+      </figure>
+      <div class="why-grid">
       <div class="why-item">
         <h3>We know how operations really run</h3>
         <p>Anne DeSpain spent 20+ years inside some of retail's most complex operations, at Amazon, Myer, Sundance Catalog, J.Crew, and Limited Brands. We know where the friction hides and which questions to ask before anything gets built.</p>
@@ -107,6 +112,7 @@ faq:
       <div class="why-item">
         <h3>Your team keeps the capability</h3>
         <p>We build systems that fit how you already work and teach your team to run them, so the skills stay in-house after the project ends.</p>
+      </div>
       </div>
     </div>
     <p class="section-link"><a href="/about">More about Anne and our approach &rarr;</a></p>
