@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Connect Your GitHub to Claude
+seo_title: "Connect GitHub to Claude: A No-Code Guide | DeSpain Consulting"
 description: A no-code guide to connecting your GitHub to Claude, the four-click setup, the two ways to do it, and how Claude Code is different.
 permalink: /connect-guide
 ---

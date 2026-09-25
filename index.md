@@ -7,8 +7,49 @@ headline: Running a business shouldn't feel this hard.
 subheadline: We help businesses remove the friction that's costing them time and money, using AI-powered systems that actually fit how you work.
 cta_text: Book an AI Opportunity Audit
 cta_link: /services
+secondary_cta_text: "New to AI yourself? Get Started with AI ($150)"
+secondary_cta_link: /start
+faq:
+  - q: "What happens in the AI Opportunity Audit?"
+    a: "It starts with a 30-minute video call about how your business runs today. Within 24 hours you receive a personalized audit report that maps your highest-value AI opportunities to your specific operations, with a prioritized list of workflows to automate, tools to evaluate, and next steps. The audit is $350."
+  - q: "What if the audit doesn't turn up anything useful?"
+    a: "If you don't walk away with at least three actionable AI opportunities specific to your business, we refund your $350 in full."
+  - q: "Does the $350 count toward a bigger project?"
+    a: "Yes. If you move forward with us to build the systems the audit identifies, your $350 is credited toward that work."
+  - q: "Do I need to be technical?"
+    a: "No. We start from how your business works today and explain everything in plain English. The goal is systems your team can run and a team that knows how to use them."
+  - q: "What's the difference between the audit and Get Started with AI?"
+    a: "The $350 AI Opportunity Audit is for businesses that want to find where AI will save the most time and margin in their operations. Get Started with AI is a $150, 60-minute one-on-one session for individuals who want their AI tools set up, a personal starting plan, and prompts they can use right away."
+  - q: "Who do you work with?"
+    a: "Small business owners, founders, and operations leaders, plus purpose-driven organizations. We work best with businesses that have real operational challenges and are ready to implement."
+  - q: "Where are you based?"
+    a: "Park City, Utah. Sessions run by video call, so we work with clients anywhere."
 ---
 
+<section class="home-section stats-section" aria-labelledby="stats-heading">
+  <div class="container">
+    <h2 id="stats-heading" class="visually-hidden">Results and experience</h2>
+    <ul class="stats-grid">
+      <li class="stat">
+        <span class="stat-number">47.97x</span>
+        <span class="stat-label">return on ad spend: $138 in ads drove $6,625 in revenue</span>
+      </li>
+      <li class="stat">
+        <span class="stat-number">30 sec</span>
+        <span class="stat-label">per invoice, replacing manual data entry</span>
+      </li>
+      <li class="stat">
+        <span class="stat-number">20+ yrs</span>
+        <span class="stat-label">in retail operations at Amazon, Myer, Sundance Catalog, and J.Crew</span>
+      </li>
+      <li class="stat">
+        <span class="stat-number">5</span>
+        <span class="stat-label">press features on AI in 2026, including CRM Buyer and E-Commerce Times</span>
+      </li>
+    </ul>
+    <p class="stats-link"><a href="/case-studies">See how we got these results &rarr;</a></p>
+  </div>
+</section>
 
 <section class="home-section">
   <div class="container">
@@ -51,25 +92,59 @@ cta_link: /services
 <section class="home-section">
   <div class="container">
     <div class="section-header">
-      <h2>Ventures & Projects</h2>
-      <p>We don't just advise, we build and operate</p>
+      <h2>Why Work With DeSpain Consulting</h2>
+      <p>Large-company operations rigor, applied to businesses of any size</p>
     </div>
-    <div class="ventures-grid">
-      <div class="venture-card">
-        <div class="venture-card-content">
-          <span class="venture-type">E-Commerce</span>
-          <h3>Wasatch Gift</h3>
-          <p>Curated artisan e-commerce featuring local maker relationships, gift personalization, and brand storytelling.</p>
-          <a href="https://wasatchgift.com" class="card-link" target="_blank" rel="noopener">Visit Site<span class="visually-hidden"> (opens in new tab)</span> &rarr;</a>
-        </div>
+    <div class="why-grid">
+      <div class="why-item">
+        <h3>We know how operations really run</h3>
+        <p>Anne DeSpain spent 20+ years inside some of retail's most complex operations, at Amazon, Myer, Sundance Catalog, J.Crew, and Limited Brands. We know where the friction hides and which questions to ask before anything gets built.</p>
       </div>
-      <div class="venture-card">
-        <div class="venture-card-content">
-          <span class="venture-type">AI System</span>
-          <h3>Custom AI Solutions</h3>
-          <p>Property management assistants, research automation, and complex document workflows with specialized agents.</p>
-          <a href="/ventures" class="card-link">See All Projects &rarr;</a>
-        </div>
+      <div class="why-item">
+        <h3>We test it on our own businesses first</h3>
+        <p>We run our own businesses, including <a href="https://wasatchgift.com" target="_blank" rel="noopener">Wasatch Gift<span class="visually-hidden"> (opens in new tab)</span></a>, on the same AI systems we build for clients. Every recommendation has already worked in a business we operate.</p>
+      </div>
+      <div class="why-item">
+        <h3>Your team keeps the capability</h3>
+        <p>We build systems that fit how you already work and teach your team to run them, so the skills stay in-house after the project ends.</p>
+      </div>
+    </div>
+    <p class="section-link"><a href="/about">More about Anne and our approach &rarr;</a></p>
+  </div>
+</section>
+
+<section class="home-section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Two Ways to Start</h2>
+      <p>Pick the one that fits where you are today</p>
+    </div>
+    <div class="offer-grid">
+      <div class="offer-card offer-card-featured">
+        <p class="offer-audience">For businesses</p>
+        <h3>AI Opportunity Audit</h3>
+        <p class="offer-price">$350</p>
+        <ul>
+          <li>30-minute strategy session by video call</li>
+          <li>Personalized audit report within 24 hours</li>
+          <li>Prioritized workflows to automate, tools to evaluate, and next steps</li>
+          <li>Credited toward your build if you move forward with us</li>
+        </ul>
+        <p class="offer-guarantee">At least three actionable opportunities, or a full refund.</p>
+        <a href="/services" class="btn btn-primary">Book the Audit</a>
+      </div>
+      <div class="offer-card">
+        <p class="offer-audience">For individuals</p>
+        <h3>Get Started with AI</h3>
+        <p class="offer-price">$150</p>
+        <ul>
+          <li>60-minute one-on-one session by video call</li>
+          <li>Your AI tools set up for what you want to do</li>
+          <li>A short personal AI plan you keep</li>
+          <li>Prompts for the things you do most</li>
+        </ul>
+        <p class="offer-guarantee">Finish with a tool set up and a plan you understand, or a full refund.</p>
+        <a href="/start" class="btn btn-secondary">Get Started with AI</a>
       </div>
     </div>
   </div>
@@ -147,6 +222,22 @@ cta_link: /services
           <a href="https://www.ecommercetimes.com/story/google-openai-chatgpt-dominate-ai-referred-web-traffic-178675.html" target="_blank" rel="noopener">Read the article<span class="visually-hidden"> (opens in new tab)</span> &rarr;</a>
         </div>
       </div>
+    </div>
+  </div>
+</section>
+
+<section class="home-section" aria-labelledby="faq-heading">
+  <div class="container">
+    <div class="section-header">
+      <h2 id="faq-heading">Frequently Asked Questions</h2>
+    </div>
+    <div class="faq-list">
+      {% for item in page.faq %}
+      <div class="faq-item">
+        <h3>{{ item.q }}</h3>
+        <p>{{ item.a }}</p>
+      </div>
+      {% endfor %}
     </div>
   </div>
 </section>

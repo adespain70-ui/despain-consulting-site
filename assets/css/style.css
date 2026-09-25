@@ -32,6 +32,27 @@ html {
   html {
     scroll-behavior: auto;
   }
+
+  *, *::before, *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
+
+/* ===== Keyboard focus =====
+   A consistent, high-contrast ring (WCAG 2.4.7 / 2.4.11). Dark ring on light
+   surfaces, white ring on the brown bands. */
+:focus-visible {
+  outline: 3px solid var(--color-primary-dark);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+.advance-hero :focus-visible,
+.advance-cta :focus-visible,
+.cta-band :focus-visible {
+  outline-color: #fff;
 }
 
 /* ===== Accessibility helpers ===== */
@@ -326,6 +347,172 @@ main {
   font-size: 1.125rem;
 }
 
+.hero-secondary {
+  margin-top: calc(var(--spacing-unit) * 1.25);
+  font-size: 1rem;
+}
+
+.hero-secondary a {
+  display: inline-block;
+  padding: 0.25rem 0;
+  color: var(--color-primary-dark);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.section-link,
+.stats-link {
+  text-align: center;
+  margin-top: calc(var(--spacing-unit) * 2);
+}
+
+.section-link a,
+.stats-link a {
+  display: inline-block;
+  padding: 0.25rem 0;
+  font-weight: 600;
+  color: var(--color-primary-dark);
+}
+
+/* ===== Results Strip ===== */
+.stats-section {
+  padding: calc(var(--spacing-unit) * 3) 0;
+}
+
+.stats-grid {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(150px, 100%), 1fr));
+  gap: calc(var(--spacing-unit) * 2);
+  text-align: center;
+}
+
+.stat-number {
+  display: block;
+  font-family: var(--font-serif);
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--color-primary-dark);
+  line-height: 1.1;
+  margin-bottom: 0.5rem;
+}
+
+.stat-label {
+  display: block;
+  color: var(--color-text-light);
+  font-size: 0.95rem;
+  max-width: 240px;
+  margin: 0 auto;
+}
+
+/* ===== Why Us ===== */
+.why-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr));
+  gap: calc(var(--spacing-unit) * 2.5);
+}
+
+.why-item {
+  border-top: 3px solid var(--color-primary);
+  padding-top: calc(var(--spacing-unit) * 1.25);
+}
+
+.why-item h3 {
+  margin-bottom: 0.75rem;
+}
+
+.why-item p {
+  color: var(--color-text-light);
+}
+
+.why-item a {
+  color: var(--color-primary-dark);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+/* ===== Offer Cards ===== */
+.offer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr));
+  gap: calc(var(--spacing-unit) * 2);
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.offer-card {
+  display: flex;
+  flex-direction: column;
+  padding: calc(var(--spacing-unit) * 2);
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+}
+
+.offer-card-featured {
+  border: 2px solid var(--color-primary);
+}
+
+.offer-audience {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  margin-bottom: 0.5rem;
+}
+
+.offer-price {
+  font-family: var(--font-serif);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--color-primary-dark);
+  margin: 0.25rem 0 1rem;
+}
+
+.offer-card ul {
+  padding-left: 1.25rem;
+  margin-bottom: 1rem;
+  color: var(--color-text-light);
+}
+
+.offer-card li {
+  margin-bottom: 0.4rem;
+}
+
+.offer-guarantee {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  font-style: italic;
+  margin-bottom: 1.5rem;
+}
+
+.offer-card .btn {
+  margin-top: auto;
+  text-align: center;
+}
+
+/* ===== FAQ ===== */
+.faq-list {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.faq-item {
+  padding: calc(var(--spacing-unit) * 1.5) 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.faq-item h3 {
+  font-size: 1.15rem;
+  margin-bottom: 0.5rem;
+}
+
+.faq-item p {
+  color: var(--color-text-light);
+}
+
 /* ===== Problem Cards ===== */
 .problems-grid {
   display: grid;
@@ -398,6 +585,8 @@ main {
 }
 
 .venture-card .card-link {
+  display: inline-block;
+  padding: 0.25rem 0; /* keeps the tap target at least 24px tall (WCAG 2.5.8) */
   font-weight: 600;
   font-size: 0.95rem;
 }
@@ -958,6 +1147,11 @@ main {
   font-size: 0.875rem;
   color: var(--color-text-light);
   flex-wrap: wrap;
+}
+
+.press-attribution a {
+  display: inline-block;
+  padding: 0.25rem 0; /* at least 24px tall tap target */
 }
 
 .press-separator {

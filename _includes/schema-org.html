@@ -1,7 +1,15 @@
+{% comment %}
+  Page-specific structured data (JSON-LD) for search engines and AI agents.
+  jekyll-seo-tag already emits WebSite/WebPage on every page; this adds the
+  business, its offers, the founder, and the homepage FAQ.
+{% endcomment %}
+{% assign provider_ref = site.url | append: "/#business" %}
+{% if page.url == "/" %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
+  "@id": "{{ provider_ref }}",
   "name": "DeSpain Consulting",
   "url": "{{ site.url }}/",
   "logo": "{{ site.url }}/assets/images/logo.png",
@@ -14,12 +22,8 @@
     "addressRegion": "UT",
     "addressCountry": "US"
   },
-  "founder": {
-    "@type": "Person",
-    "name": "Anne DeSpain",
-    "url": "{{ site.url }}/about/",
-    "sameAs": ["https://www.linkedin.com/in/annedespain/"]
-  },
+  "areaServed": "Worldwide",
+  "founder": { "@id": "{{ site.url }}/about/#anne" },
   "sameAs": ["https://www.linkedin.com/in/annedespain/"],
   "makesOffer": [
     {
@@ -41,3 +45,78 @@
   ]
 }
 </script>
+{% if page.faq %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{% for item in page.faq %}
+    {
+      "@type": "Question",
+      "name": {{ item.q | jsonify }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ item.a | jsonify }} }
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+  ]
+}
+</script>
+{% endif %}
+{% elsif page.url == "/services/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AI Opportunity Audit",
+  "serviceType": "AI operations consulting",
+  "description": "A 30-minute video strategy session plus a personalized audit report, delivered within 24 hours, mapping your highest-value AI opportunities to your specific operations, with a prioritized list of workflows to automate, tools to evaluate, and next steps.",
+  "provider": { "@id": "{{ provider_ref }}", "@type": "ProfessionalService", "name": "DeSpain Consulting", "url": "{{ site.url }}/" },
+  "areaServed": "Worldwide",
+  "url": "{{ site.url }}/services/",
+  "offers": {
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "USD",
+    "url": "https://zcal.co/adespain/ai-opportunity-audit"
+  }
+}
+</script>
+{% elsif page.url == "/start" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Get Started with AI",
+  "serviceType": "One-on-one AI coaching session",
+  "description": "A 60-minute one-on-one video session for individuals at any level. You leave with your AI tools set up, a short personalized AI plan, and prompts for the things you do most.",
+  "provider": { "@id": "{{ provider_ref }}", "@type": "ProfessionalService", "name": "DeSpain Consulting", "url": "{{ site.url }}/" },
+  "areaServed": "Worldwide",
+  "url": "{{ site.url }}/start",
+  "offers": {
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "USD",
+    "url": "https://zcal.co/i/zKNp-7A4"
+  }
+}
+</script>
+{% elsif page.url == "/about/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ site.url }}/about/#anne",
+  "name": "Anne DeSpain",
+  "jobTitle": "Founder",
+  "description": "AI operations consultant with 20+ years of retail operations and merchandising experience at Amazon, Myer, Sundance Catalog, J.Crew, and Limited Brands.",
+  "worksFor": { "@id": "{{ provider_ref }}", "@type": "ProfessionalService", "name": "DeSpain Consulting", "url": "{{ site.url }}/" },
+  "address": { "@type": "PostalAddress", "addressLocality": "Park City", "addressRegion": "UT", "addressCountry": "US" },
+  "url": "{{ site.url }}/about/",
+  "sameAs": ["https://www.linkedin.com/in/annedespain/"],
+  "knowsAbout": ["AI workflow automation", "Retail operations", "Merchandising", "Assortment and pricing strategy", "Agentic AI workflows", "AI search visibility (SEO, AEO, GEO)", "AI enablement for teams"],
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "name": "Certified AI Operator",
+    "recognizedBy": { "@type": "Organization", "name": "The AI Exchange" }
+  }
+}
+</script>
+{% endif %}

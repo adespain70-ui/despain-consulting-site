@@ -1,6 +1,7 @@
 ---
 layout: default
 title: GitHub in Plain English
+seo_title: "GitHub in Plain English: A No-Code Setup Guide | DeSpain Consulting"
 description: A no-code setup guide. Make a GitHub account, connect it to Claude, the words you'll hear, and a team-skills bonus.
 permalink: /github-guide
 ---

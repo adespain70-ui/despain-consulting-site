@@ -153,11 +153,12 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
       return Math.max(track.clientWidth * 0.9, 240);
     }
 
+    var motion = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
     prev.addEventListener('click', function () {
-      track.scrollBy({ left: -step(), behavior: 'smooth' });
+      track.scrollBy({ left: -step(), behavior: motion });
     });
     next.addEventListener('click', function () {
-      track.scrollBy({ left: step(), behavior: 'smooth' });
+      track.scrollBy({ left: step(), behavior: motion });
     });
 
     track.addEventListener('scroll', updateState, { passive: true });

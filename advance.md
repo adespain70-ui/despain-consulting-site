@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The ADVANCE Framework
+seo_title: "The ADVANCE Framework: 7 Ways to Start Using AI | DeSpain Consulting"
 description: A practical framework for getting started with AI. Whether you're a founder, a solo operator, or just getting curious.
 permalink: /advance
 ---

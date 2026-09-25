@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+description: "How DeSpain Consulting collects, uses, and protects your information, including newsletter sign-ups, bookings, and site analytics."
 ---
 
 *Last updated: September 2026*
