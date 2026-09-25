@@ -9,6 +9,9 @@ layout: default
     <div class="hero-cta">
       <a href="{{ page.cta_link }}" class="btn btn-primary">{{ page.cta_text }}</a>
     </div>
+    {% if page.secondary_cta_text %}
+    <p class="hero-secondary"><a href="{{ page.secondary_cta_link | relative_url }}">{{ page.secondary_cta_text }}</a></p>
+    {% endif %}
   </div>
 </section>
 

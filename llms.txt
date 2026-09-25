@@ -86,3 +86,4 @@ Anne DeSpain has been quoted on agentic AI, AI search, and AI bias in:
 - [Get Started with AI](https://despain-consulting.com/start): The $150 one-on-one AI session for individuals
 - [About](https://despain-consulting.com/about/): Founder background, approach, community work, and certifications
 - [Contact](https://despain-consulting.com/contact/): How to get in touch and what to expect
+- [Accessibility](https://despain-consulting.com/accessibility/): Our WCAG 2.2 AA accessibility commitment and how to report a barrier

@@ -8,6 +8,10 @@ subtitle: Operations expertise meets AI capability
 
 ## The Founder
 
+<figure class="founder-photo founder-photo-about">
+  <img src="/assets/images/anne-despain.jpg" alt="Anne DeSpain, founder of DeSpain Consulting" width="600" height="837">
+</figure>
+
 DeSpain Consulting was founded by Anne DeSpain, who spent 20+ years inside some of retail's most complex operations: **Amazon**, **Myer**, **Sundance Catalog**, **J Crew**, and **Limited Brands**. From department store buying in Australia to wholesale sales in the surf industry, that career spanned major corporations to boutique formats, building deep expertise in merchandising, planning, inventory, and the systems that make operations run.
 
 That background is the foundation for all of the AI work.
@@ -153,11 +157,12 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
       return Math.max(track.clientWidth * 0.9, 240);
     }
 
+    var motion = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
     prev.addEventListener('click', function () {
-      track.scrollBy({ left: -step(), behavior: 'smooth' });
+      track.scrollBy({ left: -step(), behavior: motion });
     });
     next.addEventListener('click', function () {
-      track.scrollBy({ left: step(), behavior: 'smooth' });
+      track.scrollBy({ left: step(), behavior: motion });
     });
 
     track.addEventListener('scroll', updateState, { passive: true });
