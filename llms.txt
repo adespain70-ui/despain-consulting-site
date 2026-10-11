@@ -70,6 +70,7 @@ Anne DeSpain has been quoted on agentic AI, AI search, and AI bias in:
 - [GitHub in Plain English](https://despain-consulting.com/github-guide): A no-code GitHub setup guide
 - [Connect Your GitHub to Claude](https://despain-consulting.com/connect-guide): A no-code guide to connecting GitHub to Claude
 - [Test Jev on Your Own Evals with Claude Code](https://despain-consulting.com/jev-guide): Step-by-step setup and the exact Claude Code prompts for testing TypeSafe's Jev against your own eval scores, with a Sonnet head-to-head
+- [Use the New Claude Projects on Real Work](https://despain-consulting.com/projects-guide): Step-by-step setup for the new Projects in the Claude Code desktop app, with a context file template and the exact prompts for running one project with parallel threads
 
 ## Contact
 
