@@ -15,6 +15,17 @@ hide_newsletter: true
   </div>
 </section>
 
+<section class="advance-intro">
+  <div class="container">
+    <h2>What's inside</h2>
+    <p><strong>The 8-step setup</strong>, from storing your API key safely to a head-to-head with Sonnet.</p>
+    <p><strong>The exact Claude Code prompts</strong>, ready to paste. You don't need to write code.</p>
+    <p><strong>How to use your own graded work as the answer key</strong>, so the numbers mean something.</p>
+    <p><strong>The rubric fix that took Jev from harsh to matching me on 14 of 15</strong>, and how to tell when the problem is your rubric.</p>
+    <p><strong>What it cost</strong>: about half a cent per Jev run.</p>
+  </div>
+</section>
+
 <section class="advance-framework">
   <div class="container">
 

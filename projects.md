@@ -15,6 +15,17 @@ hide_newsletter: true
   </div>
 </section>
 
+<section class="advance-intro">
+  <div class="container">
+    <h2>What's inside</h2>
+    <p><strong>The 9-step setup</strong>, from the New project form to checking the Overview.</p>
+    <p><strong>My context file template.</strong> Fill in the brackets and add it to your project.</p>
+    <p><strong>How to answer once</strong> and have every thread that needs it pick it up.</p>
+    <p><strong>How to steer a running thread</strong> when your plans change.</p>
+    <p><strong>The settings worth knowing</strong>, what it cost, and what's not available yet.</p>
+  </div>
+</section>
+
 <section class="advance-framework">
   <div class="container">
 
