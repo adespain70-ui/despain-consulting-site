@@ -118,6 +118,7 @@ AI adoption moves faster when people learn together. Outside client work, Anne i
     <img src="/assets/images/cert-ai-foundations.jpg" alt="How To Scale A Business With AI & Agentic Workflows - Foundations Certificate">
     <img src="/assets/images/cert-agentic-workflows.jpg" alt="Master Market-Ready Agentic AI Workflows Certificate">
     <img src="/assets/images/cert-anthropic-agent-native-os.jpg" alt="Install an Agent Native OS in One Day with Claude Code, AI Build Lab">
+    <img src="/assets/images/cert-aibl-agent-native-advanced.jpg" alt="Agent Native (Advanced) Course: Build the Fleet that Builds Agent Native Co's, AI Build Lab on Maven">
   </div>
   <button class="cert-nav cert-nav-next" type="button" aria-label="Next certificates">&#8250;</button>
 </div>
